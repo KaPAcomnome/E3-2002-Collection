@@ -2,5 +2,8 @@
 {
 	"$basetexture" "metal/metalpipe011a"
 	"$surfaceprop" "metal"
+"$bumpmap" "metal/metalpipe011a_nor"
+"$envmap" "env_cubemap"
+	"$envmaptint" "[.01 .01 .01]"
 	"%keywords" "c17industrial"
 }

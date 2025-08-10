@@ -5,7 +5,4 @@
 	"$surfaceprop" "metal"
 	"%keywords" "c17downtown"
 	"$translucent" 1
-	"$AlphaTest" "1"
-	"$AlphaTestReference" "0.5"
-	"$nocull" 1
 }

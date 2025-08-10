@@ -3,6 +3,7 @@
 	"$basetexture" "nature/dirtfloor007b"
 	"$basetexture2" "nature/dirtfloor009c"
 "$blendmodulatetexture" "Nature/dirtfloor007b_blendmask"
+
 	"%keywords" "wasteland"
 	"$surfaceprop" "antlionsand"
        	"%detailtype" "redgrass"

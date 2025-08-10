@@ -6,6 +6,7 @@
 	"%keywords" "wasteland"
 	"$surfaceprop" "dirt"
 	"$bumpmap" "Nature/rockwall011d_normal"
+	"$bumpmap2" "dev/flat_normal"
 	"$bumpbasetexture2withbumpmap" "1"
 	"$blendmodulatetexture" "Nature/rockwall011d_blendmask"
 
