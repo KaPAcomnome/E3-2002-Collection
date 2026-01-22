@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_c17/traffic_light002"
+	"$surfaceprop" "metal"
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Humans/lale/leoup03/vance_facemap"
+	"$envmapsphere" 1
+	"$halflambert" 1
+}

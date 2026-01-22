@@ -1,0 +1,62 @@
+"E3_strider.alyx_01"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alyx_strider/alyx_01.wav"
+}
+
+"E3_strider.alyx_02"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alyx_strider/alyx_02.wav"
+}
+
+"E3_strider.alyx_03"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alyx_strider/alyx_03.wav"
+}
+
+"E3_strider.alyx_04"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alyx_strider/alyx_04.wav"
+}
+
+"E3_strider.alyx_05"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alyx_strider/alyx_05.wav"
+}
+
+"E3_strider.alyx_06"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alyx_strider/alyx_06.wav"
+}
+
+"E3_strider.alyx_07"
+{
+	"channel"	"CHAN_VOICE"
+	"volume"	"VOL_NORM"
+	"soundlevel"	"SNDLVL_90dB"
+	"pitch"		"PITCH_NORM"
+	"wave"	"vo/alyx_strider/alyx_07.wav"
+}

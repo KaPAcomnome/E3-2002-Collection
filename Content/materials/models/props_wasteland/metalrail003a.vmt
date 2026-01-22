@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$translucent" 1
+	"$basetexture" "Metal/metalrail003a"
+	"$surfaceprop" "metal"
+	"%keywords" "c17downtown,c17industrial,wasteland"
+}

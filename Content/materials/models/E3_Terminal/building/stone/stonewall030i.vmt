@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basealphaenvmapmask"		"1"
+	"$basetexture"		"Stone/stonewall030i"
+	"$envmap"		"env_cubemap"
+	"%keywords"		"c17skyscraper"
+	"$model"		"1"
+}

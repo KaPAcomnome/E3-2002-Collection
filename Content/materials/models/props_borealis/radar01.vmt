@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_borealis/radar01"
+	"$bumpmap" "models/props_borealis/radar01_normal"	
+}
+

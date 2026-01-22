@@ -1,0 +1,11 @@
+
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Models/props_wasteland/prison_yard001"
+	"$surfaceprop" "chainlink"
+	//"$envmap" "env_cubemap"
+	//"$basealphaenvmapmask" 1
+	"%compilepassbullets" 1
+	"%keywords" "airexchange,c17industrial"
+}

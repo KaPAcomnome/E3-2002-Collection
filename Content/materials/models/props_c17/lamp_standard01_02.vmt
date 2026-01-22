@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_c17/lamp_standard01"
+	"$translucent" 1
+	"$nocull" 1
+}

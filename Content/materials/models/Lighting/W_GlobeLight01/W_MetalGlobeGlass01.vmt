@@ -1,0 +1,6 @@
+"ModelAdditiveTransEnvMapWithMaskedTexture"
+{
+	"$basetexture" "models/Lighting/W_GlobeLight01/W_MetalGlobeGlass01"
+	"$envmap" "environment maps/envmap005a"
+	"$model" 1
+}

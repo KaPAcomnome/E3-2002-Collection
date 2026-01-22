@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_borealis/light_fluorescent004a"
+	"$surfaceprop" "glass"
+	"$envmapmask" "Models/props_borealis/light_fluorescent004a_mask"
+	"$envmap" "env_cubemap"
+}
+

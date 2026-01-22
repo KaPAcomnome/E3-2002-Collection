@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props_borealis/porthole_on001"
+	"$surfaceprop" "metal"
+	"$selfillum" 1
+}
+

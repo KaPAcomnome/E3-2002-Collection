@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/antlion_guard/antlionGuard"
+	"$bumpmap" "Models/antlion_guard/antlionGuard_normal"
+	"$surfaceprop" "metal"
+	"$model" 1
+	"$normalmapalphaenvmapmask" 1
+	"$envcontrast" "1"
+	"$envmap" "models\Antlion_Guard\antlion_env"
+	"$envmaptint" "[1 1 1]"
+}

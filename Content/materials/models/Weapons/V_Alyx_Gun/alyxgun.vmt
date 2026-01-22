@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Weapons/V_Alyx_Gun/alyxgun"
+	"$bumpmap" "Models/Weapons/V_Alyx_Gun/alyx_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.4 0.5 0.4]"
+	"$envmapcontrast" .9
+	"$envmapsaturation" .1
+	"$basealphaenvmapmask" 1
+
+}

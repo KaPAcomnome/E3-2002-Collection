@@ -1,0 +1,11 @@
+"predator"
+{
+	"$model" 1
+	"$refractionAmount" "[.05 .05]"
+//	"$envmap" "Environment Maps/specular"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.3 .3 .3]"
+
+
+
+}

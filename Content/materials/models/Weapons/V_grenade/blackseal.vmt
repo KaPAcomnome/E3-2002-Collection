@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$bumpmap" "models/weapons/v_grenade/black seal_normal"
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" .1
+	"$envmapcontrast" 1
+	"$envmaptint" "[0.5 0.5 0.5 ]"	
+	"$baseTexture" "Models/Weapons/V_grenade/blackseal"
+}

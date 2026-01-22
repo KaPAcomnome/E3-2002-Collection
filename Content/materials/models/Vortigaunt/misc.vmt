@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/Vortigaunt/miscenvmask"
+}

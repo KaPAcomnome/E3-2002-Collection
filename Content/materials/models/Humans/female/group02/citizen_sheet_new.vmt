@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/humans/Male/group02/citizen_sheet_new"
+	$bumpmap "models/humans/Male/group01/citizen_sheet_new_normal"
+	$surfaceprop Flesh
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmapcontrast 1
+}

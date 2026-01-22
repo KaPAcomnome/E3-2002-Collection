@@ -1,0 +1,14 @@
+
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Models/props_wasteland/chimneystone01"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "dev/flat_normal"
+
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost"	".5"
+	"$phongfresnelranges"	"[.1 .5 1]"
+	
+}

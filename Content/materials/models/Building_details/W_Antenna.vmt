@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$translucent" 1
+	"$basetexture" "Models/Building_details/W_Antenna"
+	"$surfaceprop" "metal"
+}

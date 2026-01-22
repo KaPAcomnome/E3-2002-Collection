@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\props_combine\_invis"
+	"$translucent" "1"
+	"%compilenodraw" 1
+}
+
+

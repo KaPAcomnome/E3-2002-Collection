@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$baseTexture" "models/props_borealis/borealis_deckdetail_system01"
+	"$surfaceprop" "metal"
+}
+

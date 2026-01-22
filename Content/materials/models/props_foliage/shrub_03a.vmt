@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTextureAlphaBlend
+	"$translucent" 1
+	"$basetexture" "models/props_foliage/Shrub_03a"
+	"$model" 1
+	"$nocull" 1
+}

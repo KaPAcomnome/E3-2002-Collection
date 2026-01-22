@@ -1,0 +1,9 @@
+"VertexLitGeneric_obselte"
+{
+
+	"$basetexture" "Tools/toolsinvisible"
+	"$translucent" "1"
+	"%compilenodraw" 1
+}
+
+

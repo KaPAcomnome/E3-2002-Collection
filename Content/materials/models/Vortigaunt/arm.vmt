@@ -1,0 +1,12 @@
+
+//"ModelDiffuseBump"
+"VertexLitGeneric"
+{
+//	"$bumpmap" "models/Vortigaunt/arm_normal"
+//	"$envmap" "env_cubemap"
+//	"$envmapcontrast" "1"
+//	"$envmapsaturation" "[.5 .5 .5]"
+//	"$normalmapalphaenvmapmask" 1
+	"$basetexture" "models/Vortigaunt/arm"
+	"$model" 1
+}

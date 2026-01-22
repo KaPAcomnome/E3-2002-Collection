@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Electronics/W_Intercom/W_Intercom(128x64)"
+}

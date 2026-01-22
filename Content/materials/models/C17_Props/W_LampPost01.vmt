@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/C17_Props/W_LampPost01"
+	"$surfaceprop" "metal"
+	"$selfillum" 1
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_c17/Tram_Body"
+	"$surfaceprop" "metal"
+	"$nocull" 1
+}

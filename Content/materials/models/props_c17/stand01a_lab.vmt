@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTranslucentTexture
+//	"$translucent" 1
+	"$basetexture" "Models/props_c17/stand01a_lab"
+	"$surfaceprop" "metal"
+}
+

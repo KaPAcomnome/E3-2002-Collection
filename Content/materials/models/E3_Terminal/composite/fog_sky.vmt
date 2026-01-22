@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"Composite/fog_sky"
+	"$nocull"		"1"
+	"$translucent"		"1"
+	"$nofullbright"		"1"
+	"$model"		"1"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_c17/Bike_Rack001"
+	"$surfaceprop" "metal"
+}

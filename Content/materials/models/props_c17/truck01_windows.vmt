@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	//Original shader: VertexLitTranslucentTexture
+// Uncomment this if you add an alpha channel to the base texture
+//	"$translucent" 1
+	"$basetexture" "models/props_c17/truck01_windows"
+}

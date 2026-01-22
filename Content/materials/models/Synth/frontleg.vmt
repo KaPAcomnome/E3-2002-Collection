@@ -1,0 +1,8 @@
+"VertexLitGeneric_DX8"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/Synth/frontleg"
+	"$envmapmask" "models/Synth/frontlegmask"
+	"$envmap" "models/Synth/synthenvmap"
+	"$envmapsphere" 1
+}

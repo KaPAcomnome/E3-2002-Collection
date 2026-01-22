@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$baseTexture" "models/props_borealis/lifering01"
+	"$surfaceprop" "metal"
+
+	"$bumpmap" "dev/flat_normal"
+	"$phong" "1"
+	"$phongexponent" "17"
+	"$phongboost"	".4"
+	"$phongfresnelranges"	"[1 .03 1]"
+}
+

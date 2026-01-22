@@ -1,0 +1,2005 @@
+// DSP Effects
+// 0 : "Normal (off)"
+// 1 : "Generic"
+// 2 : "Metal Small"
+// 3 : "Metal Medium"
+// 4 : "Metal Large"
+// 5 : "Tunnel Small"
+// 6 : "Tunnel Medium"
+// 7 : "Tunnel Large"
+// 8 : "Chamber Small"
+// 9 : "Chamber Medium"
+// 10: "Chamber Large"
+// 11: "Bright Small"
+// 12: "Bright Medium"
+// 13: "Bright Large"
+// 14: "Water 1"
+// 15: "Water 2"
+// 16: "Water 3"
+// 17: "Concrete Small"
+// 18: "Concrete Medium"
+// 19: "Concrete Large"
+// 20: "Big 1"
+// 21: "Big 2"
+// 22: "Big 3"
+// 23: "Cavern Small"
+// 24: "Cavern Medium"
+// 25: "Cavern Large"
+// 26: "Weirdo 1"
+// 27: "Weirdo 2"
+// 28: "Weirdo 3"
+
+//	ATTN_NONE		0.0f	
+//	ATTN_NORM		0.8f	75dB
+//	ATTN_IDLE		2.0f	60dB
+//	ATTN_STATIC		1.25f	66dB
+//	ATTN_RICOCHET	1.5f	65dB
+//	ATTN_GUNFIRE	0.27f	140dB
+
+//	SNDLVL_50dB		= 50,	// 3.9
+//	SNDLVL_55dB		= 55,	// 3.0
+//	SNDLVL_IDLE		= 60,	// 2.0
+//	SNDLVL_TALKING	= 60,	// 2.0
+//	SNDLVL_60dB		= 60,	// 2.0
+//	SNDLVL_65dB		= 65,	// 1.5
+//	SNDLVL_STATIC	= 66,	// 1.25
+//	SNDLVL_70dB		= 70,	// 1.0
+//	SNDLVL_NORM		= 75,
+//	SNDLVL_75dB		= 75,	// 0.8
+//	SNDLVL_80dB		= 80,	// 0.7
+//	SNDLVL_85dB		= 85,	// 0.6
+//	SNDLVL_90dB		= 90,	// 0.5
+//	SNDLVL_95dB		= 95,
+//	SNDLVL_100dB	= 100,	// 0.4
+//	SNDLVL_105dB	= 105,
+//	SNDLVL_120dB	= 120,
+//	SNDLVL_130dB	= 130,
+//	SNDLVL_GUNFIRE	= 140,	// 0.27
+//	SNDLVL_140dB	= 140,	// 0.2
+//	SNDLVL_150dB	= 150,	// 0.2
+
+
+// From HL1 - important!
+"Normal (off)"
+{
+	"dsp"	"0"
+}
+
+"Generic"
+{
+	"dsp"	"1"
+}
+
+"Metal Small"
+{
+	"dsp"	"2"
+}
+
+"Metal Medium"
+{
+	"dsp"	"3"
+}
+
+"Metal Large"
+{
+	"dsp"	"4"
+}
+
+"Tunnel Small"
+{
+	"dsp"	"5"
+}
+
+"Tunnel Medium"
+{
+	"dsp"	"6"
+}
+
+"Tunnel Large"
+{
+	"dsp"	"7"
+}
+
+"Chamber Small"
+{
+	"dsp"	"8"
+}
+
+"Chamber Medium"
+{
+	"dsp"	"9"
+}
+
+"Chamber Large"
+{
+	"dsp"	"10"
+}
+
+"Bright Small"
+{
+	"dsp"	"11"
+}
+
+"Bright Medium"
+{
+	"dsp"	"12"
+}
+
+"Bright Large"
+{
+	"dsp"	"13"
+}
+
+"Water 1"
+{
+	"dsp"	"14"
+}
+
+"Water 2"
+{
+	"dsp"	"15"
+}
+
+"Water 3"
+{
+	"dsp"	"16"
+}
+
+"Concrete Small"
+{
+	"dsp"	"17"
+}
+
+"Concrete Medium"
+{
+	"dsp"	"18"
+}
+
+"Concrete Large"
+{
+	"dsp"	"19"
+}
+
+"Big 1"
+{
+	"dsp"	"20"
+}
+
+"Big 2"
+{
+	"dsp"	"21"
+}
+
+"Big 3"
+{
+	"dsp"	"22"
+}
+
+"Cavern Small"
+{
+	"dsp"	"23"
+}
+
+"Cavern Medium"
+{
+	"dsp"	"24"
+}
+
+"Cavern Large"
+{
+	"dsp"	"25"
+}
+
+"Weirdo 1"
+{
+	"dsp"	"26"
+}
+
+"Weirdo 2"
+{
+	"dsp"	"27"
+}
+
+"Weirdo 3"
+{
+	"dsp"	"28"
+}
+
+
+// *******************************************************************************
+// ***************** E3_Techdemo_01 - 06 *****************
+
+// e3_techdemo_01
+
+"e3_techdemo_gmanspeaking"
+{
+	"dsp"	"10"
+}
+
+"e3_Techdemo_02"
+{
+	"dsp"	"20"	
+
+	// physics room
+
+	"playlooping"
+	{
+		"volume"	"0.1"
+		"pitch"		"100"
+		"attenuation"	"0"
+		"wave"		"ambient/areas/d1_terminal_01/courtyard_mach_loop.wav"
+	}
+}
+
+"e3_Techdemo_03"
+{
+	"dsp"	"1"	
+
+}
+
+"e3_Techdemo_05"
+{
+	"dsp"	"10"
+
+	// dripping cave ambient
+
+	"playlooping"
+	{
+		"volume"	"0.23"
+		"pitch"		"100"
+		"attenuation"	"0"
+		"wave"		"ambient/areas/borealis/corridor_water.wav"
+	}
+}
+
+"e3_Techdemo_06"
+{
+	"dsp"	"20"	
+
+	// lake
+
+	"playlooping"
+	{
+		"volume"	"0.5"
+		"pitch"		"100"
+		"attenuation"	"0"
+		"wave"		"ambient/areas/zombie_town/lake_water.wav"
+	}
+}
+
+"e3_end"
+{
+	"dsp" "0"
+}
+
+// ***************** E3_Techdemo_01 - 06 *****************
+// *******************************************************************************
+
+// *******************************************************************************
+// ***************** E3_C17_01 *****************
+
+"e3_c17_01_battle"
+{
+	"dsp"	"19"
+
+
+//    sound position 0 - fire01
+
+	"playlooping"
+	{
+		"volume"	"1.0"
+		"wave"		"ambient/fire_med_loop1.wav"
+		"pitch"		"100"
+		"attenuation"	"1"
+		"position"	"0"
+	}
+
+//    sound position 1 - barricade_gate
+
+	"playlooping"
+	{
+		"volume"	"0.8"
+		"wave"		"ambient/areas/citadel/incinerator/noise2.wav"
+		"pitch"		"100"
+		"attenuation"	"0.7"
+		"position"	"1"
+	}
+
+//    siren at position 2
+
+	"playlooping"
+	{
+		"volume"	"0.85"
+		"wave"		"ambient/city_siren_loop2.wav"
+		"pitch"		"100"
+		"attenuation"	"0.4"
+		"position"	"2"
+	}
+
+//    sound position 3 - soundscape_target_gunfire
+
+	"playrandom"
+	{
+		"time"		"1,4"
+		"volume"	"0.5,1.0"
+		"pitch"		"95,105"
+		"attenuation"	"0"
+		"rndwave"
+		{
+			"wave"	"ambient/city_battle1.wav"
+			"wave"	"ambient/city_battle2.wav"
+			"wave"	"ambient/city_battle3.wav"
+			"wave"	"ambient/city_battle4.wav"
+			"wave"	"ambient/city_battle5.wav"
+			"wave"	"ambient/city_battle6.wav"
+			"wave"	"ambient/city_battle7.wav"
+			"wave"	"ambient/city_battle8.wav"
+			"wave"	"ambient/city_battle9.wav"
+			"wave"	"ambient/city_battle10.wav"
+			"wave"	"ambient/city_battle11.wav"
+		}
+		
+	}
+
+}
+
+ 
+// ***************** E3_C17_01 *****************
+// *******************************************************************************
+
+// *******************************************************************************
+// ***************** E3_seafloor_01 *****************
+
+
+"e3_seafloor_01_sub"
+{
+	
+	"dsp"	"20"
+
+	// wind
+	
+	"playlooping"
+	{
+		"volume"	"0.5"
+		"wave"		"ambient/nature/wind/wind_rooftop1.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+}
+
+
+// ***************** E3_seafloor_01 *****************
+// *******************************************************************************
+
+
+
+// *******************************************************************************
+// ***************** E3_C17_02 *****************
+
+"e3_c17_02_elevatorride"
+{
+	"dsp"	"20"
+
+	// elevator sounds
+	
+	"playlooping"
+	{
+		"volume"	"0.2"
+		"wave"		"ambient/areas/sky_scraper/elev_shaft2.wav"
+		"pitch"		"100"
+		"attenuation"	"1.0"
+	}
+
+	// city siren
+
+	"playlooping"
+	{
+		"volume"	"0.3"
+		"wave"		"ambient/city_siren_loop2.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+
+	// wind
+	"playrandom"
+	{
+		"time"		"2, 7"
+		"volume"	"0.2, 0.5"
+		"pitch"		"95,105"
+		"attenuation"	"0"
+		"rndwave"
+		{
+			"wave"	"ambient/wind_med1.wav"
+			"wave"	"ambient/wind_med2.wav"
+			
+		}
+	}
+
+	"playrandom"
+	{
+		"time"		"4, 10"
+		"volume"	"0.3,0.8"
+		"pitch"		"95,105"
+		"attenuation"	"0.5"
+		"rndwave"
+		{
+			"wave"	"ambient/city_battle1.wav"
+			"wave"	"ambient/city_battle2.wav"
+			"wave"	"ambient/city_battle3.wav"
+			"wave"	"ambient/city_battle4.wav"
+			"wave"	"ambient/city_battle5.wav"
+			"wave"	"ambient/city_battle6.wav"
+			"wave"	"ambient/city_battle7.wav"
+			"wave"	"ambient/city_battle8.wav"
+			"wave"	"ambient/city_battle9.wav"
+			"wave"	"ambient/city_battle10.wav"
+			"wave"	"ambient/city_battle11.wav"
+		}
+		
+	}
+}
+
+"e3_c17_02_seethewall"
+{
+	"dsp"	"20"
+	
+	// thundering wall noise
+
+	"playlooping"
+	{
+		"volume"	"0.8"
+		"pitch"		"100"
+		"attenuation"	"0"
+		"wave"	"ambient/wall_ambient1.wav"
+	}
+}
+
+
+
+"e3_c17_02_striderdestruction"
+{
+	"dsp"	"20"
+
+	// city siren
+
+	"playlooping"
+	{
+		"volume"	"0.4"
+		"wave"		"ambient/city_siren_loop2.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+
+	// position0		// strider 1, breaking stuff
+	// position1		// strider 2, breaking stuff
+
+	"playrandom"
+	{
+		"time"		"1, 4"
+		"volume"	"0.5,1.0"
+		"pitch"		"95,105"
+		"attenuation"	"0"
+		"rndwave"
+		{
+			"wave"	"ambient/city_battle1.wav"
+			"wave"	"ambient/city_battle2.wav"
+			"wave"	"ambient/city_battle3.wav"
+			"wave"	"ambient/city_battle4.wav"
+			"wave"	"ambient/city_battle5.wav"
+			"wave"	"ambient/city_battle6.wav"
+			"wave"	"ambient/city_battle7.wav"
+			"wave"	"ambient/city_battle8.wav"
+			"wave"	"ambient/city_battle9.wav"
+			"wave"	"ambient/city_battle10.wav"
+			"wave"	"ambient/city_battle11.wav"
+		}
+		
+	}
+
+}
+
+
+
+// ***************** E3_C17_02 *****************
+// *******************************************************************************
+
+
+// *******************************************************************************
+// ***************** E3_Under_02,04 *****************
+
+"underground_sscape_plinkohallway"
+{
+	"dsp"	"6"
+
+	"playlooping"
+	{
+		"volume"	"0.5"
+		"wave"		"ambient/undercity_loop1.wav"
+		"pitch"		"110"
+		"attenuation"	"0"
+	}
+
+	// (2 manhacks attack you in narrow hall, streetlevel by windows)
+
+	// p0 = underground_sound_plinkohalldrip1
+	"playlooping"
+	{
+		"volume"	"0.65"
+		"wave"		"ambient/drip_loop1.wav"
+		"pitch"		"100"
+		"attenuation"	"1"
+		"position"	"0"
+	}
+
+	// p1 = underground_sound_plinkohallsteam1
+	"playlooping"
+	{
+		"volume"	"0.65"
+		"wave"		"ambient/steam_loop1.wav"
+		"pitch"		"120"
+		"attenuation"	"1"
+		"position"	"1"
+	}
+}
+
+ 
+"underground_sscape_plinkostairwell"
+{
+	// (underground stairwell from steamplant, metrocops fall to their death while on fire from I-Rifle)
+
+	"dsp"	"10"
+	
+	"playlooping"
+	{
+		"volume"	"0.5"
+		"wave"		"ambient/undercity_loop1.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+	
+	"playlooping"
+	{
+		"volume"	"0.3"
+		"wave"		"ambient/drip_loop1.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+	
+	"playlooping"
+	{
+		"volume"	"0.2"
+		"wave"		"ambient/water_flow_loop1.wav"
+		"pitch"		"100"
+		"attenuation"	"1"
+		"position"	"0"
+	}
+}
+
+"e3_under_04"
+{
+	"dsp" "8"
+
+	"playlooping"
+	{
+		"volume"	"0.5"
+		"wave"		"music/HL2_song11.mp3"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+}
+
+// ***************** E3_Under_02,04 *****************
+// *******************************************************************************
+
+// *******************************************************************************
+// ***************** E3_bugbait *****************
+
+"e3_bugbait.start"
+{
+	"dsp"	"18"
+
+	"playlooping"
+	{
+		"volume"	"0.4"
+		"wave"		"ambient/areas/air_exchange/underground.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+
+	"playlooping"
+	{
+		"volume"	"0.3"
+		"wave"		"ambient/drip_loop1.wav"
+		"pitch"		"115"
+		"attenuation"	"0"
+	}
+
+	"playrandom"
+	{
+		"time"		"3, 10"
+		"volume"	"0.3,0.5"
+		"pitch"		"95,105"
+
+		"rndwave"
+		{
+			"wave"	"ambient/areas/d2_depot/metal_rattle1.wav"
+			"wave"	"ambient/areas/d2_depot/metal_rattle2.wav"
+			"wave"	"ambient/areas/d2_depot/metal_rattle3.wav"
+		}
+		
+	}
+}
+
+"e3_bugbait.hallway1"
+{
+	"dsp"	"11"
+
+	"playlooping"
+	{
+		"volume"	"0.4"
+		"wave"		"ambient/areas/air_exchange/indoor2.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+}
+ 
+
+
+"e3_bugbait.hallway2" 
+{
+	// antlion burrow area - first soldier combat - turret combat
+
+	"dsp"	"18"
+
+	//Position 0 - soft antlion chittering from burrow
+	"playrandom"
+	{
+		"time"		"3, 6"
+		"volume"	"0.5,0.7"
+		"pitch"		"95,105"
+		"attenuation"	"1.5"
+		"position"	"0"
+		"rndwave"
+		{
+			"wave"	"npc/antlion/idle1.wav"
+			"wave"	"npc/antlion/idle2.wav"
+			"wave"	"npc/antlion/idle3.wav"
+			"wave"	"npc/antlion/idle4.wav"
+			"wave"	"npc/antlion/idle5.wav"
+		}
+		
+	}
+
+	//Position 1 - soft antlion chittering from burrow
+	"playrandom"
+	{
+		"time"		"2, 4"
+		"volume"	"0.5,0.7"
+		"pitch"		"95,105"
+		"attenuation"	"1.5"
+		"position"	"1"
+		"rndwave"
+		{
+			"wave"	"npc/antlion/idle1.wav"
+			"wave"	"npc/antlion/idle2.wav"
+			"wave"	"npc/antlion/idle3.wav"
+			"wave"	"npc/antlion/idle4.wav"
+			"wave"	"npc/antlion/idle5.wav"
+		}
+		
+	}
+
+	//Position 2 - broken ceiling outside ambient
+	"playrandom"
+	{
+		"time"		"2,10"
+		"volume"	"0.7,0.9"
+		"pitch"		"85,95"
+		"attenuation"	"1"
+		"position"	"2"
+		"rndwave"
+		{
+			"wave"	"ambient/wind_moan1.wav"
+			"wave"	"ambient/wind_moan2.wav"
+			"wave"	"ambient/wind_moan3.wav"
+			"wave"	"ambient/wind_moan4.wav"
+		}
+		
+	}
+
+}
+
+"e3_bugbait.laundry"
+{
+	"dsp"	"10"
+
+	"playlooping"
+	{
+		"volume"	"0.6"
+		"wave"		"ambient/areas/air_exchange/indoor2.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+
+	// Machines
+	"playlooping"
+	{
+		"volume"	"1.0"
+		"wave"		"ambient/areas/d2_depot/laundry_tunnel_amb.wav"
+		"pitch"		"100"
+		"attenuation"	"1"
+		"position"	"0"
+	}
+
+	// Machines
+	"playlooping"
+	{
+		"volume"	"1.0"
+		"wave"		"ambient/areas/d2_depot/laundry_amb.wav"
+		"pitch"		"100"
+		"attenuation"	"1"
+		"position"	"1"
+	}
+
+}
+
+"e3_bugbait.narrow_hallway"
+{
+	"dsp"	"5"
+	
+	// distant, echo-y wet
+	// running water
+	"playlooping"
+	{
+		"volume"	"0.3"
+		"wave"		"ambient/water_flow_loop1.wav"
+		"pitch"		"100"
+		"attenuation"	"1"
+	}
+
+
+	// dripping water
+	"playlooping"
+	{
+		"volume"	"0.2"
+		"wave"		"ambient/drip_loop1.wav"
+		"pitch"		"120"
+		"attenuation"	"1"
+	}
+
+	//dripping water
+	"playlooping"
+	{
+		"volume"	"0.2"
+		"wave"		"ambient/drip_loop1.wav"
+		"pitch"		"140"
+		"attenuation"	"1"
+	}
+}
+
+"e3_bugbait.showers"
+{
+	"dsp"	"13"
+
+	// big echo-y wet
+	//Position 0 - running water
+	"playlooping"
+	{
+		"volume"	"0.8"
+		"wave"		"ambient/water_flow_loop1.wav"
+		"pitch"		"100"
+		"attenuation"	"1"
+		"position"	"0"
+	}
+
+
+	//Position 1 - dripping water
+	"playlooping"
+	{
+		"volume"	"0.8"
+		"wave"		"ambient/drip_loop1.wav"
+		"pitch"		"120"
+		"attenuation"	"1"
+		"position"	"1"
+	}
+
+	//Position 1 - dripping water
+	"playlooping"
+	{
+		"volume"	"0.8"
+		"wave"		"ambient/drip_loop1.wav"
+		"pitch"		"140"
+		"attenuation"	"1"
+		"position"	"1"
+	}
+
+	//Position 2 - water heater hiss
+	"playlooping"
+	{
+		"volume"	"0.8"
+		"wave"		"ambient/steam_loop1.wav"
+		"pitch"		"100"
+		"attenuation"	"2"
+		"position"	"2"
+	}
+}
+
+// ***************** E3_bugbait *****************
+// *******************************************************************************
+
+// *******************************************************************************
+// ***************** E3_phystown *****************
+
+"E3_phystown.Start"
+{
+	"dsp"	"20"
+
+	
+	"playlooping"
+	{
+		"volume"	"0.35"
+		"wave"		"ambient/areas/zombie_town/tone_alley.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+
+	"playrandom"
+	{
+		"time"		"6, 16"
+		"volume"	"0.15,0.3"
+		"pitch"		"95,105"
+		"attenuation"	"0"
+		"rndwave"
+		{
+			"wave"	"ambient/wind_moan1.wav"
+			"wave"	"ambient/wind_moan2.wav"
+			"wave"	"ambient/wind_moan3.wav"
+			"wave"	"ambient/wind_moan4.wav"
+		}
+		
+	}
+}
+
+
+"E3_phystown.Indoors"
+{
+
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	"0.3"
+		"wave"		"ambient/areas/zombie_town/tone_warehouse.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+
+	"playrandom"
+	{
+		"time"		"5,10"
+		"volume"	"0.2,0.5"
+		"pitch"		"95,105"
+		"attenuation"	"0"
+
+		"rndwave"
+		{
+			"wave"	"ambient/areas/d1_town/wood_creak1.wav"
+			"wave"	"ambient/areas/d1_town/wood_creak2.wav"
+			"wave"	"ambient/areas/d1_town/wood_creak3.wav"
+			"wave"	"ambient/areas/d1_town/wood_creak4.wav"
+			"wave"	"ambient/areas/d1_town/wood_creak5.wav"
+			"wave"	"ambient/areas/d1_town/wood_creak6.wav"
+		}
+		
+	}
+
+}
+
+"E3_phystown.Rooftop"
+{
+	"dsp"	"19"
+
+	"playlooping"
+	{
+		"volume"	"0.5"
+		"wave"		"ambient/areas/zombie_town/tone_quiet.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+
+
+	"playlooping"
+	{
+		"volume"	"0.1"
+		"wave"		"ambient/windmoan_loop1.wav"
+		"pitch"		"100"
+		"attenuation"	"0"
+	}
+
+}
+
+"E3_phystown.Zombies"
+{
+	"dsp"	"24"
+   
+   "playlooping"
+	{
+		"volume"	"0.5"
+		"wave"		"#music/HL2_song11.mp3"
+		"pitch"		"100"
+		"attenuation"	"0"
+		"suppress_on_restore"	"1" // don't restart this sound if loading a saved game
+	}
+}
+
+
+// ***************** E3_phystown *****************
+// *******************************************************************************
+
+// *******************************************************************************
+// ***************** E3_lab *****************
+
+"E3_lab.LabSounds"
+{
+	"dsp"	"17"
+
+	"playlooping"
+	{
+		"volume"	"0.5"
+		"pitch"		"100"
+		"attenuation"	"0"
+		"wave"		"#music/HL2_song10.mp3"
+		"suppress_on_restore"	"1" // don't restart this sound if loading a saved game
+	}
+
+	// position0 - goo tubes
+	"playlooping"
+	{
+		"volume"	"0.2"
+		"wave"	"C17/city_beacon_loop1.wav"
+		"pitch"		"120"
+		"attenuation"	"0.7"
+		"position"	"0"
+	}
+
+	"playlooping"
+	{
+		"volume"	"0.2"
+		"wave"	"C17/city_ventpump_loop1.wav"
+		"pitch"		"100"
+		"attenuation"	"0.7"
+		"position"	"0"
+	}
+
+	// position1 - computers on desk
+	"playlooping"
+	{
+		"volume"	"0.3"
+		"wave"		"ambient/lab_loop1.wav"
+		"pitch"		"100"
+		"attenuation"	"0.7"
+		"position"	"1"
+	}
+		
+}
+
+// ***************** E3_lab *****************
+// *******************************************************************************
+
+
+// *******************************************************************************
+// ***************** d1_town  *****************
+
+"d1_town_warehouse_wood"
+{
+	"dsp"	"17"
+	
+	"playrandom"
+	{
+		//"time"		"7, 9"
+		"time"		"3, 5"
+		"volume"	"0.1,0.25"
+		"pitch"		"95,105"
+
+		"rndwave"
+		{
+			"wave"	"ambient/areas/d1_town/wood_creak1.wav"
+			"wave"	"ambient/areas/d1_town/wood_creak2.wav"
+			"wave"	"ambient/areas/d1_town/wood_creak3.wav"
+			"wave"	"ambient/areas/d1_town/wood_creak4.wav"
+			"wave"	"ambient/areas/d1_town/wood_creak5.wav"
+			"wave"	"ambient/areas/d1_town/wood_creak6.wav"
+
+			//"wave"	"ambient/areas/d1_town/rubble1.wav"
+			//"wave"	"ambient/areas/d1_town/rubble2.wav"
+			//"wave"	"ambient/areas/d1_town/rubble3.wav"
+
+
+		}
+		
+	}
+
+	// First Hole
+	"playlooping"
+	{
+		"volume"	"0.20"
+		"wave"		"ambient/areas/d1_town/hole_amb1.wav"
+		"pitch"		"100"
+		"attenuation"	"2.5"
+		"position"	"0"
+	}
+
+	"playrandom"
+	{
+		"time"		"3, 5"
+		"volume"	"0.25,0.3"
+		"pitch"		"95,105"
+
+		"rndwave"
+		{
+			//"wave"	"ambient/areas/d1_town/hole_hit1.wav"
+			//"wave"	"ambient/areas/d1_town/hole_hit2.wav"
+			//"wave"	"ambient/areas/d1_town/hole_hit3.wav"
+		}
+		
+		"attenuation"	"1.5"
+		"position"	"0"
+
+	}
+
+	// Second and Third Hole
+	"playlooping"
+	{
+		"volume"	"0.45"
+		"wave"		"ambient/areas/d1_town/hole_amb2.wav"
+		"pitch"		"100"
+		"attenuation"	"2"
+		"position"	"1"
+	}
+
+	"playrandom"
+	{
+		"time"		"0.5, 1"
+		"volume"	"0.15, 0.25"
+		"pitch"		"70, 120"
+
+		"rndwave"
+		{
+			"wave"	"ambient/areas/d1_town/hole_hit1.wav"
+			"wave"	"ambient/areas/d1_town/hole_hit2.wav"
+			"wave"	"ambient/areas/d1_town/hole_hit3.wav"
+			"wave"	"ambient/areas/d1_town/hole_hit4.wav"
+			"wave"	"ambient/areas/d1_town/hole_hit5.wav"
+		}
+
+		"attenuation"	"1.5"	
+		"position"	"1"
+
+	}
+
+	// Fourth  Hole
+	"playlooping"
+	{
+		"volume"	"0.55"
+		"wave"		"ambient/areas/d1_town/hole_amb3.wav"
+		"pitch"		"100"
+		"attenuation"	"3"
+		"position"	"2"
+	}
+
+
+	"playrandom"
+	{
+		// "time"		"0.5, 0.8"
+		"time"		"0.1, 0.5"
+		"volume"	"0.2, 0.35"
+		// "pitch"		"70,120"
+		"pitch"		"98,102"
+
+		"rndwave"
+		{
+			"wave"	"ambient/areas/d1_town/hole_hit1.wav"
+			"wave"	"ambient/areas/d1_town/hole_hit2.wav"
+			"wave"	"ambient/areas/d1_town/hole_hit3.wav"
+			"wave"	"ambient/areas/d1_town/hole_hit4.wav"
+			"wave"	"ambient/areas/d1_town/hole_hit5.wav"
+
+			"wave"	"ambient/areas/d1_town/wind_hit1.wav"
+			"wave"	"ambient/areas/d1_town/wind_hit2.wav"
+			"wave"	"ambient/areas/d1_town/wind_hit3.wav"
+
+
+		}
+		"attenuation"	"3"		
+		"position"	"2"
+
+	}
+
+
+
+	// Wood Shutter
+	"playlooping"
+	{
+		"volume"	"0.10"
+		"wave"		"ambient/areas/d1_town/shutter_amb.wav"
+		"pitch"		"100"
+		"attenuation"	"2 "
+		"position"	"3"
+	}
+
+
+	"playrandom"
+	{
+		"time"		"0.1, 0.8"
+		"volume"	"0.1, 0.45"
+		"pitch"		"98,106"
+
+		"rndwave"
+		{
+
+			"wave"	"ambient/areas/d1_town/shutter1.wav"
+			"wave"	"ambient/areas/d1_town/shutter2.wav"
+			"wave"	"ambient/areas/d1_town/shutter3.wav"
+			"wave"	"ambient/areas/d1_town/shutter4.wav"
+			"wave"	"ambient/areas/d1_town/shutter5.wav"
+			"wave"	"ambient/areas/d1_town/shutter6.wav"
+			"wave"	"ambient/areas/d1_town/shutter7.wav"
+			"wave"	"ambient/areas/d1_town/shutter8.wav"
+
+
+		}
+
+		"attenuation"	"1.5"	
+		"position"	"3"
+
+	}
+
+
+
+
+}
+
+"d1_town_bigcave"
+{
+	"dsp"	"25"
+	"playlooping"
+	{
+		"volume"	"0.45"
+		"pitch"		"100"
+		"wave"		"ambient/areas/d1_town/cave_amb1.wav"
+	}
+
+	"playrandom"
+	{
+		"time"		"10, 11"
+		"volume"	"0.10,0.15"
+		"pitch"		"100, 101"
+
+		"rndwave"
+		{
+			"wave"	"ambient/areas/d1_town/cave_hit1.wav"
+			"wave"	"ambient/areas/d1_town/cave_hit2.wav"
+			"wave"	"ambient/areas/d1_town/cave_hit3.wav"
+			"wave"	"ambient/areas/d1_town/cave_hit4.wav"
+			"wave"	"ambient/areas/d1_town/cave_hit5.wav"
+			"wave"	"ambient/areas/d1_town/cave_hit6.wav"
+
+		}
+		
+	}
+
+	// POD
+	"playlooping"
+	{
+		"volume"	"0.75"
+		"wave"		"ambient/areas/d1_town/pod_amb1.wav"
+		"pitch"		"100"
+		"attenuation"	"2 "
+		"position"	"0"
+	}
+
+	"playrandom"
+	{
+		"time"		"0.1, 0.5"
+		"volume"	"0.15, 0.35"
+		"pitch"		"98,102"
+
+		"rndwave"
+		{
+			"wave"	"ambient/areas/d1_town/pod_hit1.wav"
+			"wave"	"ambient/areas/d1_town/pod_hit2.wav"
+			"wave"	"ambient/areas/d1_town/pod_hit3.wav"
+			"wave"	"ambient/areas/d1_town/pod_hit4.wav"
+			"wave"	"ambient/areas/d1_town/pod_hit5.wav"
+			"wave"	"ambient/areas/d1_town/pod_hit6.wav"
+			"wave"	"ambient/areas/d1_town/pod_hit7.wav"
+			"wave"	"ambient/areas/d1_town/pod_hit8.wav"
+			"wave"	"ambient/areas/d1_town/pod_hit9.wav"
+			"wave"	"ambient/areas/d1_town/pod_hit10.wav"
+
+
+		}
+
+		"attenuation"	"2"	
+		"position"	"0"
+
+	}
+
+	// support Metal Creak
+	"playlooping"
+	{
+		"volume"	"0.65"
+		//"wave"		"ambient/areas/d1_town/hole_amb3.wav"
+		"pitch"		"100"
+		"attenuation"	"3 "
+		"position"	"1"
+	}
+
+	"playrandom"
+	{
+		//"time"		"0.1, 0.5"
+
+		"time"		"5, 6"
+		"volume"	"0.25, 0.35"
+		"pitch"		"98,102"
+
+		"rndwave"
+		{
+
+			"wave"	"ambient/areas/d1_town/metal_stress1.wav"
+			"wave"	"ambient/areas/d1_town/metal_stress2.wav"
+			"wave"	"ambient/areas/d1_town/metal_stress3.wav"
+			"wave"	"ambient/areas/d1_town/metal_stress4.wav"
+			"wave"	"ambient/areas/d1_town/metal_stress5.wav"
+
+
+		}
+
+		"attenuation"	"1.5"	
+		"position"	"1"
+
+	}
+
+
+
+
+	// Drippies
+	"playlooping"
+	{
+		"volume"	"0.65"
+		//"wave"		"ambient/areas/d1_town/hole_amb3.wav"
+		"pitch"		"100"
+		"attenuation"	"3 "
+		"position"	"2"
+	}
+
+
+	"playrandom"
+	{
+		"time"		"0.5, 1.5"
+		"volume"	"0.1, 0.25"
+		"pitch"		"96,105"
+
+		"rndwave"
+		{
+			"wave"	"ambient/areas/d1_town/drip1.wav"
+			"wave"	"ambient/areas/d1_town/drip2.wav"
+			"wave"	"ambient/areas/d1_town/drip3.wav"
+			"wave"	"ambient/areas/d1_town/drip4.wav"
+
+
+		}
+
+		"attenuation"	"1"	
+		"position"	"2"
+
+	}
+
+
+
+
+	// Rubbles
+	"playlooping"
+	{
+		"volume"	"0.65"
+		//"wave"		"ambient/areas/d1_town/hole_amb3.wav"
+		"pitch"		"100"
+		"attenuation"	"3 "
+		"position"	"3"
+	}
+
+
+	"playrandom"
+	{
+		"time"		"5, 7"
+		"volume"	"0.35, 0.45"
+		"pitch"		"98,102"
+
+		"rndwave"
+		{
+			"wave"	"ambient/areas/d1_town/rock1.wav"
+			"wave"	"ambient/areas/d1_town/rock2.wav"
+			"wave"	"ambient/areas/d1_town/rock3.wav"
+			"wave"	"ambient/areas/d1_town/rock4.wav"
+			"wave"	"ambient/areas/d1_town/rock5.wav"
+
+
+		}
+
+		"attenuation"	"1"	
+		"position"	"3"
+	}
+}
+
+"d1_town_cavetunnel"
+{
+	"dsp"	"25"
+	"playlooping"
+	{
+		"volume"	"0.45"
+		"pitch"		"100"
+		"wave"		"ambient/areas/d1_town/cave_tunnel_amb1.wav"
+	}
+
+	"playrandom"
+	{
+		"time"		"0.1, 0.1"
+		"volume"	"0.5,1"
+		"pitch"		"50,120"
+
+		"rndwave"
+		{
+			//"wave"	"temp/soundscape_test/music_snippet1.wav"
+		}
+		
+	}
+
+}
+
+// ***************** d2_depot  *****************
+// *******************************************************************************
+
+
+
+
+
+"d2_depot_showers1"
+{
+	"dsp"	"13"
+	"playlooping"
+	{
+		"volume"	"0.35"
+		"pitch"		"100"
+		"wave"		"ambient/areas/d2_depot/shower1_amb.wav"
+	}
+
+
+	"playrandom"
+	{
+		"time"		"0.1, 0.2"
+		"volume"	"0.05,0.1"
+		"pitch"		"95,110"
+
+		"rndwave"
+		{
+			"wave"	"ambient/areas/d2_depot/shower1_hit1.wav"
+			"wave"	"ambient/areas/d2_depot/shower1_hit2.wav"
+			"wave"	"ambient/areas/d2_depot/shower1_hit3.wav"
+			"wave"	"ambient/areas/d2_depot/shower1_hit4.wav"
+		}
+		
+	}
+
+}
+
+
+
+
+
+"d2_depot_admin1"
+{
+	"dsp"	"9"
+	"playlooping"
+	{
+		"volume"	"0.45"
+		"pitch"		"100"
+		"wave"		"ambient/areas/d2_depot/quiet_cellblock_amb.wav"
+	}
+
+}
+
+
+"d2_depot_laundry"
+{
+	"dsp"	"18"
+	"playlooping"
+	{
+		"volume"	"0.45"
+		"pitch"		"100"
+		"wave"		"ambient/areas/d2_depot/laundry_amb.wav"
+	}
+
+
+
+	// Machines
+	"playlooping"
+	{
+		"volume"	"0.45"
+		"wave"		"ambient/areas/d2_depot/laundry_machine1_amb.wav"
+		"pitch"		"100"
+		"attenuation"	"1 "
+		"position"	"0"
+	}
+
+	"playrandom"
+	{
+		"time"		"0.5, 1"
+		"volume"	"0.05, 0.15"
+		"pitch"		"99,102"
+
+		"rndwave"
+		{
+
+		"wave"		"ambient/areas/d2_depot/machine1_hit1.wav"
+		"wave"		"ambient/areas/d2_depot/machine1_hit2.wav"
+
+
+		}
+
+		"attenuation"	"1"	
+		"position"	"0"
+
+	}
+
+
+
+
+
+
+
+}
+
+
+"d2_depot_laundry_small"
+{
+	"dsp"	"8"
+	"playlooping"
+	{
+		"volume"	"0.25"
+		"pitch"		"100"
+		"wave"		"ambient/areas/d2_depot/quiet_cellblock_cell_amb.wav"
+	}
+
+}
+
+
+
+"d2_depot_laundry_tunnel"
+{
+	"dsp"	"5"
+	"playlooping"
+	{
+		"volume"	"0.45"
+		"pitch"		"100"
+		"wave"		"ambient/areas/d2_depot/laundry_tunnel_amb.wav"
+	}
+
+}
+
+
+
+
+
+
+
+"d2_depot_cellblock_quiet"
+{
+	"dsp"	"19"
+	"playlooping"
+	{
+		"volume"	"0.25"
+		"pitch"		"100"
+		"wave"		"ambient/areas/d2_depot/quiet_cellblock_amb.wav"
+	}
+
+
+	// Random sounds
+	"playrandom"
+	{
+		"time"		"3,5"
+		"volume"	"0.2,0.4"
+		"pitch"		"90,110"
+		"rndwave"
+		{
+
+			"wave"	"ambient/areas/d2_depot/combat_far/antlion/antlion01.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/antlion/antlion02.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/antlion/antlion03.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/antlion/antlion04.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/antlion/antlion05.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/antlion/antlion06.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/antlion/antlion07.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/antlion/antlion08.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/antlion/antlion09.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/antlion/antlion10.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/antlion/antlion11.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/antlion/antlion12.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/antlion/antlion13.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/antlion/antlion14.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/antlion/antlion15.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/antlion/antlion16.wav"
+
+
+
+			"wave"	"ambient/areas/d2_depot/combat_far/combat/combat01.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/combat/combat02.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/combat/combat03.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/combat/combat04.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/combat/combat05.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/combat/combat06.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/combat/combat07.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/combat/combat08.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/combat/combat09.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/combat/combat10.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/combat/combat11.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/combat/combat12.wav"
+
+			"wave"	"ambient/areas/d2_depot/combat_far/combine/combine01.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/combine/combine02.wav"
+			"wave"	"ambient/areas/d2_depot/combat_far/combine/combine03.wav"
+
+
+
+			"wave"	"ambient/areas/d2_depot/metal_rattle1.wav"
+
+		}
+
+
+
+		//"position"	"0"
+		//"attenuation"	"3"
+	}
+
+
+}
+
+
+
+"d2_depot_cellblock_quiet_cell"
+{
+	"dsp"	"17"
+	"playlooping"
+	{
+		"volume"	"0.15"
+		"pitch"		"100"
+		"wave"		"ambient/areas/d2_depot/quiet_cellblock_cell_amb.wav"
+	}
+
+
+	// Random sounds
+	"playrandom"
+	{
+		"time"		"0.1, 0.1"
+		"volume"	"0.5,1"
+		"pitch"		"50,120"
+		"rndwave"
+		{
+			//"wave"	"temp/soundscape_test/music_snippet1.wav"
+			//"wave"	"temp/soundscape_test/music_snippet2.wav"
+			//"wave"	"temp/soundscape_test/music_snippet3.wav"
+			//"wave"	"temp/soundscape_test/music_snippet4.wav"
+			//"wave"	"temp/soundscape_test/music_snippet5.wav"
+			//"wave"	"temp/soundscape_test/music_snippet6.wav"
+			//"wave"	"temp/soundscape_test/music_snippet7.wav"
+			//"wave"	"temp/soundscape_test/music_snippet8.wav"
+		}
+
+		//"position"	"0"
+		//"attenuation"	"3"
+	}
+
+
+}
+
+
+"d2_depot_cellblock_medium"
+{
+	"dsp"	"10"
+	"playlooping"
+	{
+		"volume"	"0.15"
+		"pitch"		"100"
+		"wave"		"ambient/areas/d2_depot/quiet_cellblock_amb.wav"
+	}
+
+
+	// Random sounds
+	"playrandom"
+	{
+		"time"		"0.1, 0.1"
+		"volume"	"0.5,1"
+		"pitch"		"50,120"
+		"rndwave"
+		{
+			//"wave"	"temp/soundscape_test/music_snippet1.wav"
+			//"wave"	"temp/soundscape_test/music_snippet2.wav"
+			//"wave"	"temp/soundscape_test/music_snippet3.wav"
+			//"wave"	"temp/soundscape_test/music_snippet4.wav"
+			//"wave"	"temp/soundscape_test/music_snippet5.wav"
+			//"wave"	"temp/soundscape_test/music_snippet6.wav"
+			//"wave"	"temp/soundscape_test/music_snippet7.wav"
+			//"wave"	"temp/soundscape_test/music_snippet8.wav"
+		}
+
+		//"position"	"0"
+		//"attenuation"	"3"
+	}
+
+
+}
+
+"d2_depot_cellblock_big"
+{
+	"dsp"	"19"
+	"playlooping"
+	{
+		"volume"	"0.4"
+		"pitch"		"100"
+		"wave"		"ambient/areas/d2_depot/quiet_cellblock_amb.wav"
+	}
+
+
+	// Random sounds
+	"playrandom"
+	{
+		"time"		"0.1, 0.1"
+		"volume"	"0.5,1"
+		"pitch"		"50,120"
+		"rndwave"
+		{
+			//"wave"	"temp/soundscape_test/music_snippet1.wav"
+			//"wave"	"temp/soundscape_test/music_snippet2.wav"
+			//"wave"	"temp/soundscape_test/music_snippet3.wav"
+			//"wave"	"temp/soundscape_test/music_snippet4.wav"
+			//"wave"	"temp/soundscape_test/music_snippet5.wav"
+			//"wave"	"temp/soundscape_test/music_snippet6.wav"
+			//"wave"	"temp/soundscape_test/music_snippet7.wav"
+			//"wave"	"temp/soundscape_test/music_snippet8.wav"
+		}
+
+		//"position"	"0"
+		//"attenuation"	"3"
+	}
+
+
+}
+
+
+
+
+"d2_depot_cellblock_small"
+{
+	"dsp"	"17"
+	"playlooping"
+	{
+		"volume"	"0.4"
+		"pitch"		"100"
+		"wave"		"ambient/areas/d2_depot/quiet_cellblock_amb.wav"
+	}
+
+
+	// Random sounds
+	"playrandom"
+	{
+		"time"		"0.1, 0.1"
+		"volume"	"0.5,1"
+		"pitch"		"50,120"
+		"rndwave"
+		{
+			//"wave"	"temp/soundscape_test/music_snippet1.wav"
+			//"wave"	"temp/soundscape_test/music_snippet2.wav"
+			//"wave"	"temp/soundscape_test/music_snippet3.wav"
+			//"wave"	"temp/soundscape_test/music_snippet4.wav"
+			//"wave"	"temp/soundscape_test/music_snippet5.wav"
+			//"wave"	"temp/soundscape_test/music_snippet6.wav"
+			//"wave"	"temp/soundscape_test/music_snippet7.wav"
+			//"wave"	"temp/soundscape_test/music_snippet8.wav"
+		}
+
+		//"position"	"0"
+		//"attenuation"	"3"
+	}
+
+
+}
+
+
+
+
+
+// ***************** d1_town_01  *****************
+// *******************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+// ******************   SOUNDSCAPE TEST  ***************************************
+
+
+// No DSP, no ambients
+"Nothing"
+{
+	"dsp"	"0"
+}
+
+"GenericIndoor"
+{
+	"dsp"	"1"
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"ambient/areas/air_exchange/indoor2.wav"
+	}
+}
+
+"GenericOutdoor"
+{
+	"dsp"	"19"
+	"playlooping"
+	{
+		"volume"	"0.25"
+		"wave"		"ambient/areas/air_exchange/indoor2.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	"0.15"
+		"wave"		"ambient/areas/air_exchange/outdoor2.wav"
+		"pitch"		"100"
+		"position"	"0"
+	}
+	"playsoundscape"
+	{
+		"name"		"d2_depot_cellblock_medium"
+		"volume"	"0.75"
+		"position"	"2"
+	}
+	"playsoundscape"
+	{
+		"name"		"d2_depot_cellblock_medium"
+		"volume"	"0.75"
+		"position"	"2"
+	}
+}
+
+
+
+
+"cabin"
+{
+	"dsp"	"17"
+	"playlooping"
+	{
+		"volume"	"0.5"
+		"pitch"		"100"
+		"wave"		"temp/soundscape_test/cabin_ambience.wav"
+	}
+
+	
+
+
+
+
+	// *** TEST TV ********
+	"playsoundscape"
+	{
+		"name"		"test_tvset"
+		"volume"	"1"
+		"position"	"0"
+	
+	}
+
+
+
+
+
+
+
+	
+	// ** Tower sticking out of wall
+	"playlooping"
+	{
+		"volume"	"0.6"
+		"wave"		"temp/soundscape_test/cabin_wall.wav"
+		"pitch"		"100"
+		"attenuation"	"2"
+		"position"	"1"
+	}
+
+
+
+
+
+
+	
+	// Random Sounds for Wall
+	"playrandom"
+	{
+		// time, volume, pitch, attenuation are all random intervals ( i.e. minval, maxval )
+		// every 0.5 to 2 seconds
+		"time"		"1,4"
+
+		// at a volume of 0.25 to 0.25
+		"volume"	"0.5,0.8"
+
+		// at a pitch of 90 to 100
+		"pitch"		"80,120"
+
+		// play one of these .wav files randomly each time
+		"rndwave"
+		{
+			"wave"	"temp/soundscape_test/wall1.wav"
+			"wave"	"temp/soundscape_test/wall2.wav"
+			"wave"	"temp/soundscape_test/wall3.wav"
+			"wave"	"temp/soundscape_test/wall4.wav"
+		}
+		
+		// omit position for ambient sounds
+		"position"	"1"
+		// only required if "position" is present
+		"attenuation"	"2"
+	}
+
+
+
+}
+
+
+
+"cabin_outdoor"
+{
+	"dsp"	"20"
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"100"
+		"wave"		"temp/soundscape_test/outdoor.wav"
+	}
+
+	"playrandom"
+	{
+		// time, volume, pitch, attenuation are all random intervals ( i.e. minval, maxval )
+		// every 0.5 to 2 seconds
+		"time"		"0.1, 0.1"
+
+		// at a volume of 0.25 to 0.25
+		"volume"	"0.5,1"
+
+		// at a pitch of 90 to 100
+		"pitch"		"50,120"
+
+		// play one of these .wav files randomly each time
+		"rndwave"
+		{
+			"wave"	"temp/soundscape_test/music_snippet1.wav"
+			"wave"	"temp/soundscape_test/music_snippet2.wav"
+			//"wave"	"temp/soundscape_test/music_snippet3.wav"
+			//"wave"	"temp/soundscape_test/music_snippet4.wav"
+			//"wave"	"temp/soundscape_test/music_snippet5.wav"
+			//"wave"	"temp/soundscape_test/music_snippet6.wav"
+			//"wave"	"temp/soundscape_test/music_snippet7.wav"
+			//"wave"	"temp/soundscape_test/music_snippet8.wav"
+		}
+		
+
+	}
+
+}
+
+
+
+
+
+
+
+"test_tvset"
+{
+	"dsp"	"1"
+	"playlooping"
+	{
+		"volume"	"0.15"
+		"pitch"		"100"
+
+		"wave"		"temp/soundscape_test/tv_music.wav"
+		"position"	"0"
+		"attenuation"	"2"
+
+	}
+
+
+	"playrandom"
+	{
+		"time"		"0.1, 0.3"
+		"volume"	"0.1,0.15"
+		"pitch"		"95,105"
+		"attenuation"	"2"
+		"position"	"0"
+
+		"rndwave"
+		{
+			"wave"	"temp/soundscape_test/music_snippet1.wav"
+			"wave"	"temp/soundscape_test/music_snippet2.wav"
+			"wave"	"temp/soundscape_test/music_snippet3.wav"
+
+		}
+		
+	}
+
+
+}
+// *******************************************************************************
+// ***************** Kleiner's Lab *****************
+//used in d1_trainstation_05 and d3_(Kleiner's lab)
+
+"K_lab.LabSounds"
+{
+	"dsp"	"17"
+
+//	"playlooping"
+//	{
+//		"volume"	"0.5"
+//		"pitch"		"100"
+//		"attenuation"	"0"
+//		"wave"		"#music/HL2_song10.mp3"
+//		"suppress_on_restore"	"1" // don't restart this sound if loading a saved game
+//	}
+
+	// position0 - goo tubes
+	"playlooping"
+	{
+		"volume"	"0.1"
+		"wave"	"C17/city_beacon_loop1.wav"
+		"pitch"		"120"
+		"attenuation"	"0.7"
+		"position"	"0"
+	}
+
+	"playlooping"
+	{
+		"volume"	"0.1"
+		"wave"	"C17/city_ventpump_loop1.wav"
+		"pitch"		"100"
+		"attenuation"	"0.7"
+		"position"	"0"
+	}
+
+	// position1 - computers on desk
+	"playlooping"
+	{
+		"volume"	"0.1"
+		"wave"		"ambient/lab_loop1.wav"
+		"pitch"		"100"
+		"attenuation"	"0.7"
+		"position"	"1"
+	}
+		
+}
+
+
+
+
+
+
+
+
+// ********************************************************************************

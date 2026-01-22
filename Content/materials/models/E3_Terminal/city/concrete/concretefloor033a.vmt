@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"concrete\concretefloor033a"
+	"%keywords"		"c17downtown"
+	"$envmap"		"env_cubemap"
+	"$envmapsaturation"		"1"
+	"$envmapcontrast"		"1"
+	"$envmaptint"		"[ .5 .5 .5]"
+	"$normalmapalphaenvmapmask"		"1"
+	"$model"		"1"
+}

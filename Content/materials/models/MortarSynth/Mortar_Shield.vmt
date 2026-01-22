@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	// Original shader: AddTexture
+	"$basetexture" "models/MortarSynth/Mortar_Shield"
+	"$envmap" "models/MortarSynth/Mortar_Shield_Mask"
+	"$additive" 1
+	"Proxies"
+	{
+		"Alpha"
+		{
+			"model" 1
+		}
+	}
+}

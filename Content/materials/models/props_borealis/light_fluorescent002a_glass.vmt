@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	// This has selfillum in the alpha channel
+	"$basetexture" "models/props_borealis/light_fluorescent002a"
+	// self-illuminate using the alpha channel of the base texture
+	"$selfillum" 1
+	// This is a constant alpha for the whole material
+	"$alpha" .5
+	"$envmap" "env_cubemap"
+}

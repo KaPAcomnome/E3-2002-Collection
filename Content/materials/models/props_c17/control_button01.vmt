@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$baseTexture" "models/props_c17/control_button01"
+	"$surfaceprop" "metal"
+}
+

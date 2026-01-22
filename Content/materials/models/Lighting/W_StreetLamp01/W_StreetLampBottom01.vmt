@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Lighting/W_StreetLamp01/W_StreetLampBottom01"
+}

@@ -1,0 +1,6 @@
+"Refract"
+{
+	"$basetexture" "Models/props_c17/frostedglass_01a_normal"
+	"$bumpmap" "Models/props_c17/frostedglass_01a_normal"
+	"$surfaceprop" "glass"
+}

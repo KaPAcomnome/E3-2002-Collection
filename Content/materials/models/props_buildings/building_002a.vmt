@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+     "$basetexture" "models\props_buildings\buildingsheet_03a.tga"
+     "$surfaceprop" "plaster"
+}

@@ -1,0 +1,8 @@
+VertexLitGeneric"
+{
+	"$basetexture" "Models/props_lab/hdd"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "metal"
+	"$envmapmask" "models/props_lab/hdd_mask"
+	
+}

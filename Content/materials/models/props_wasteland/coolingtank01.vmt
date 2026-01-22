@@ -1,0 +1,14 @@
+
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Models/props_wasteland/coolingtank01"
+	"$surfaceprop" "metal"
+	"$bumpmap" "dev/flat_normal"
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[.08 1 .1]"
+	
+}

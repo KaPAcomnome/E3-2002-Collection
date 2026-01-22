@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/Vehicles/W_Sub/W_SubCanopy/W_SubCanopy"
+	"$translucent" "1"
+}

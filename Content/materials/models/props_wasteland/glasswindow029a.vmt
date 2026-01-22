@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "glass/glasswindow029a"
+	"$surfaceprop" "glass"
+	"%keywords" "c17downtown"
+}

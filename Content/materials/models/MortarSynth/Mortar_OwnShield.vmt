@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	// Original shader: TranslucentSpecularSphericalEnvMapWithMaskedBase
+	"$additive" 1
+	"$basealphaenvmapmask" 1
+	"$basetexture" "models/MortarSynth/Mortar_OwnShield"
+	"$envmap" "models/MortarSynth/Mortar_OwnShield_Mask"
+	"$envmapsphere" 1
+	"$model" 1
+}

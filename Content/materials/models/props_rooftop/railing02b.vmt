@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	//"%compilepassbullets" 1
+     	"$basetexture" "models\props_rooftop\railing02b"
+     	"$surfaceprop" "metal"
+     	"$translucent" 1
+}
+
+
+

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Fire_equipment/W_FireExstinguisher/W_FireExstinguisherHose(32x32)"
+}

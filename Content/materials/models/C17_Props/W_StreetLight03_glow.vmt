@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/C17_Props/W_StreetLight03_glow"
+	"$surfaceprop" "glass"
+	"$selfillum" 1
+}

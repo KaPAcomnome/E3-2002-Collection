@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/combine_elite/sideholediffuse"
+	"$envmap" "models/combine_elite/leatherspec"
+	"$envmapmask" "models/combine_elite/sideholemask"
+}

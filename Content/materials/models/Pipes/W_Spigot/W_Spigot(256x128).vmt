@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Pipes/W_Spigot/W_Spigot(256x128)"
+}

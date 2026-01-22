@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Models/props_c17/statue_breenbust"
+	"$surfaceprop" "concrete"
+	"$envmapmask" "Models/props_c17/statue_breenbust_mask"
+	"$envmap" "environment maps/envmap009a"
+	//"$envmapsphere" 1
+}

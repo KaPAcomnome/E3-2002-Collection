@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"%compilepassbullets"		"1"
+	"$translucent"		"1"
+	"$basetexture"		"Metal/metaltruss007a"
+	"%keywords"		"c17industrial,wasteland"
+	"$model"		"1"
+}

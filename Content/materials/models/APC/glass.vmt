@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/apc/glass"
+	"$surfaceprop" "glass"
+	"$envmapmask" "models/apc/glass_mask"
+	"$envmap" "env_cubemap"
+
+}

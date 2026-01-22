@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"metal/metalwall039a"
+	"%keywords"		"c17downtown"
+	"$envmap"		"env_cubemap"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmapcontrast"		"1"
+	"$envmapsaturation"		"1"
+	"$envmaptint"		"[ .8 .8 .6]"
+	"$model"		"1"
+}

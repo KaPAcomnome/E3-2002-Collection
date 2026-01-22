@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basealphaenvmapmask" 1
+	"$basetexture" "models/props_c17/windowframe01"
+	"$envmap" "env_cubemap"
+
+}

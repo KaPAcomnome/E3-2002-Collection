@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/digger/digger1"
+	"$bumpmap" "models/digger/digger1_normal"
+	"$envmaptint" "[ .8 .8 .8]"
+	"$envmapsaturation" .1
+	"$envmapcontrast" 1.25
+	"$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "metal"
+}

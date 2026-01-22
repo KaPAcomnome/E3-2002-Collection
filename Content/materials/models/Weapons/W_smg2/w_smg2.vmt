@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Weapons/w_smg2/w_smg2"
+//	Remove the above line and uncomment these if you want the high-res version with specular mask.
+//	"$basetexture" "models/Weapons/w_smg2/w_smg2_hi"
+//	"$envmapmask" "models/Weapons/w_smg2/w_smg2_mask"
+//	"$envmap" "env_cubemap"
+}

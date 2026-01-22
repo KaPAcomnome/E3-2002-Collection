@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_combine/thumper/Combine_Thumper001"
+	"$surfaceprop" "metal"
+	"$nocull" 1
+	//"$envmap" "Environment Maps/envmapcombine"
+	"$envmap" "env_cubemap"
+	//"$envmapsphere" 1
+	"$envmaptint" "[ .25 .25 .25]"
+	"$envmapmask" "models/props_combine/thumper/Combine_Thumper001_mask"
+}

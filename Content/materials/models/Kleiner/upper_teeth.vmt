@@ -1,0 +1,6 @@
+"Teeth"
+{
+	"$basetexture" "models/kleiner/upper_teeth"
+	"$model" 1
+	"$clientshader" "MouthShader"
+}

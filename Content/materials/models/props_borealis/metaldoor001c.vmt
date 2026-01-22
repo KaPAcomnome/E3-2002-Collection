@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props_borealis/metaldoor001c"
+	"$surfaceprop" "metal"
+}
+

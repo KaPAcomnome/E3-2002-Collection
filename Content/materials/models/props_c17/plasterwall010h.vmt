@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	//"$basetexture" "Plaster/plasterwall010h"
+	"$basetexture" "Stone/stonewall008a_EDIT"
+
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_c17/lamp_bell01"
+	"$translucent" 1
+	"$envmap" "env_cubemap"
+	"$nocull" 1
+}

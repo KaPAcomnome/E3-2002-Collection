@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Models/props_c17/toiletplumbing01_dirty"
+	"$envmapmask" "Models/props_c17/toiletplumbing01_dirty_mask"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$multipass" 1
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: SphericalEnvMapBlendMaskedBaseTimesLightmap
+	"$surfaceprop" "metal"
+	"$basetexture" "metal/metalwall026a"
+}

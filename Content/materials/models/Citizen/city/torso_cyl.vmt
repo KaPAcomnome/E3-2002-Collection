@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Citizen/City/torso_cyl"
+	"$bumpmap" "models/Citizen/City/torso_normal"
+//	"$envmap" "Environment Maps/cubebox"
+//	"$envmap" "env_cubemap"
+//	"$envmaptint" "[0.3 0.3 0.3]"
+	"$normalmapalphaenvmapmask" 1
+	"$model" 1
+//	"$envmapcameraspace" "1"
+}

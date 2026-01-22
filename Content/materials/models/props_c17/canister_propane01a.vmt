@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+//	"$translucent" 1
+	"$basetexture" "models/props_c17/canister_propane01a"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+//	"$envmaptint" "[.1 .1 .1]"
+}
+
+
+

@@ -1,0 +1,21 @@
+
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_borealis/borealis_panel002"
+	"$surfaceprop" "metal"
+	"$nocull" 1
+	"$bumpmap" "Models/props_borealis/borealis_panel002_normal"
+	//"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	//"$envmaptint" "[ .5 .5 .5]"
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[.7 .8 .4]"
+
+}
+
+

@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	// Original shader: BaseTexture
+	"$basetexture" "models/props_foliage/temp_treetrunk01a"
+	"$model" 1
+}

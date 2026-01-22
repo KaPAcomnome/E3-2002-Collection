@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitSelfIlluminatedTexture
+	"$basetexture" "models/Lighting/W_GlobeLight01/W_MetalGlobeLightOn01"
+	"$selfillum" 1
+}

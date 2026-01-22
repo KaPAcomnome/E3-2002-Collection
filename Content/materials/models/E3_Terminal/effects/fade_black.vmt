@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"Effects/fade_black"
+	"$translucent"		"1"
+	"$no_fullbright"		"1"
+	"$translucent"		"1"
+	"$model"		"1"
+}

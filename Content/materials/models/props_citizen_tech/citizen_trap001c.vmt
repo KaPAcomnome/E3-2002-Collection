@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_citizen_tech/citizen_trap001c"
+	"$surfaceprop" "metal"
+	//"$nocull" 1
+}

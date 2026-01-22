@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTextureAlphaBlend
+	"$translucent" 1
+//	"$alphatest" 1
+	"$basetexture" "models/props_foliage/tree_branch_001"
+	"$model" 1
+	"$nocull" 1
+}

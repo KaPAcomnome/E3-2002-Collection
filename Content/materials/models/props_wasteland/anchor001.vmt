@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_wasteland/Anchor001"
+	"$surfaceprop" "metal"
+	
+}

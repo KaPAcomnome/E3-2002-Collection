@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_wasteland/lighthouse_lamp001"
+	"$surfaceprop" "glass"
+	"$envmapmask" "Models/props_wasteland/lighthouse_lamp001_mask"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .125 .125 .125]"
+}
+

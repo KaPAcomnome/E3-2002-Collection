@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	
+	"$basetexture" "Models/Building_details/W_HandRail01"
+	"$surfaceprop" "metal"
+}

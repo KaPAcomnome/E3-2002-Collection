@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "models/props_wasteland/rockwall004a"
+	"$surfaceprop" "concrete"
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/hl2_logo/hl2logo"	
+//	"$envmap" "Environment Maps/specular"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "{130 50 24}"
+	"$bumpmap" "models/hl2_logo/hl2logo_normal"
+}

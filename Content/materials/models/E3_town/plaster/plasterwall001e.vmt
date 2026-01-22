@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Plaster/plasterwall001e"
+	"$bumpmap"		"plaster/plasterwall001e_normal"
+	"%keywords"		"c17downtown"
+	"$model"		"1"
+}

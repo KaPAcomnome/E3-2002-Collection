@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+	// Original shader: AddTexture
+	"$basetexture" "models/MortarSynth/Mortar_ShieldBars"
+	"$envmap" "models/MortarSynth/Mortar_ShieldBars_Mask"
+	"$additive" 1
+	"Proxies"
+	{
+		"Shield"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" -1
+			"texturescrollangle" 20.00
+			"model" 1
+		}
+	}
+}

@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"Models/Combine_soldier/head"
+	"$bumpmap" 	   "Models/Combine_soldier/head_normal"
+	"$envmap" "env_cubemap"	
+	$normalmapalphaenvmapmask 1
+	"$envmapsaturation" .1
+	"$envmaptint" "[0.6 0.6 0.6]"
+	"$envmapcontrast" 1
+	"$surfaceprop" "flesh"
+"$phongexponenttexture" "Models/Combine_soldier/head_height"
+
+}
+
+
+

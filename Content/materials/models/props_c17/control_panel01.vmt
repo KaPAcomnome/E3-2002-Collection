@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTranslucentTexture
+	"$baseTexture" "models/props_c17/control_panel01"
+	"$surfaceprop" "metal"
+//	"$selfillum" 1
+}
+

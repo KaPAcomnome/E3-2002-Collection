@@ -1,0 +1,9 @@
+
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_wasteland/thumper001"
+	"$surfaceprop" "metal"
+	"$nocull" 1
+	"$selfillum" 1
+	
+}

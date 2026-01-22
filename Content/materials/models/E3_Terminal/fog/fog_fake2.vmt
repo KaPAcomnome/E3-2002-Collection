@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"fog/fog_fake2"
+	"$translucent"		"1"
+	"$nocull"		"1"
+	"$nofullbright"		"1"
+	"$model"		"1"
+}

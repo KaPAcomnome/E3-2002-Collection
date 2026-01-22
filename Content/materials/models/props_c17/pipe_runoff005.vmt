@@ -1,0 +1,23 @@
+"Refract"
+{
+ 	"$model" 1
+	"$bluramount" 1
+ 	"$refractamount" ".05"
+	"$REFRACTTINT" "{212 216 212}"
+	"$scale" "[1 1]"
+ 	"$dudvmap" "Models/props_c17/pipe_runoff005_dudv"
+	"$normalmap" "Models/props_c17/pipe_runoff005_normal"
+	"$envmap" "env_cubemap"
+// DOESNT WORK	"$envcontrast" "1"
+	"$envmaptint" "[.4 .5 .5]"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" .57
+			"texturescrollangle" -90
+		}
+	}
+
+}

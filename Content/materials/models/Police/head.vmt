@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/Police/head"
+	"$envmapmask" "models/Police/headmask"
+	"$envmap" "env_cubemap"
+}

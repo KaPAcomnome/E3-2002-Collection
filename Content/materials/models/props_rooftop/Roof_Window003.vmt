@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\props_rooftop\roof_window003"
+	"$surfaceprop" "concrete"
+}

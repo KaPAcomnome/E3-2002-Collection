@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basealphaenvmapmask" 1
+	"$basetexture" "Plaster/plasterwall036c"
+	"$envmap" "env_cubemap"
+
+}

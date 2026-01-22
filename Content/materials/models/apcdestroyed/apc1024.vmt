@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/apc/apc1024"
+	$surfaceprop Metal
+
+	$detail "detail/detailash001a"
+}

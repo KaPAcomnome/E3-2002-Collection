@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Electronics/W_TrainSpeaker01/W_SpeakerShell"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Lighting/W_IndustrialBell02/W_IndustrialBellOff02"
+}

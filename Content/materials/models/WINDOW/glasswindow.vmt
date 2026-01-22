@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+
+	"$basetexture" "models/Window/glasswindow"
+	"$envmapmask" "models/Window/glasswindow_mask"
+	"$envmap" "models/Window/reflection"
+	"$surfaceprop" "glass"
+	"$envmapsphere" 1
+	"$translucent" 1
+	"$model" 1
+}

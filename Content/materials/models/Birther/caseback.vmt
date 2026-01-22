@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/birther/caseback"
+	"$envmapmask" "models/birther/caseback_m"
+	"$envmap" "models/birther/antlion_env"
+	"$envmapsphere" 1
+	"$surfaceprop" "flesh"
+}

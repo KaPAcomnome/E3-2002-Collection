@@ -1,0 +1,7 @@
+"predator"
+{
+//	"$bumpmap" "dev/flat_normal"
+	"$model" 1
+	"$refractionAmount" "[.03 .03]"
+	"$envmap" "env_cubemap"
+}

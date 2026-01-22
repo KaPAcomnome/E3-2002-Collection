@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+	//"$color"				"[1 0 1]"
+	"$baseTexture"			"models/combine_apc/glass"
+	//"$selfIllum"			0
+	"$translucent"			1
+	"$alpha"				1
+	//"$envmapsphere"			1
+	"$envmapmask"			"models/combine_apc/glass_spec"
+	"$envmap"				"environment maps/cave001"
+}
+
+
+
+//"Refract"
+//{
+ 	//"$model" 1
+	//"$bluramount" 1
+ 	//"$refractamount" "1.5"
+	//"$REFRACTTINT" "{230 240 250}"
+	//"$REFRACTTINT" "{81 78 68}"
+	//"$scale" "[1 1]"
+ 	//"$dudvmap" "models/combine_apc/glass_dudv"
+	//"$normalmap" "models/combine_apc/glass_normal"
+	//"$envmap" "env_cubemap"
+	//"$envmaptint" "[.3 .4 .4]"
+	
+
+//}

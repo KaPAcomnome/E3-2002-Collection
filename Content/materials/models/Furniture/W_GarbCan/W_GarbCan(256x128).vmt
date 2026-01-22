@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Furniture/W_GarbCan/W_GarbCan(256x128)"
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Stone/stoneceiling001b"
+	"$envmap"		"env_cubemap"
+	"%keywords"		"c17skyscraper"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmapcontrast"		"1"
+	"$envmapsaturation"		"1"
+	"$envmaptint"		"[ .5 .5 .5]"
+	"$model"		"1"
+}

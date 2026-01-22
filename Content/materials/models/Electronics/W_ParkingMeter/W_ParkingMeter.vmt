@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Electronics/W_ParkingMeter/W_ParkingMeter"
+}

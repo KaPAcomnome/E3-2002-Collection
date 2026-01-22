@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Props/hevcharger001a"
+	"$selfillum"		"1"
+	"$model"		"1"
+}

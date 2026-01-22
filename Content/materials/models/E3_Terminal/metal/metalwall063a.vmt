@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basealphaenvmapmask"		"1"
+	"$basetexture"		"Metal/metalwall063a"
+	"$envmap"		"env_cubemap"
+	"%keywords"		"combine"
+	"$model"		"1"
+}

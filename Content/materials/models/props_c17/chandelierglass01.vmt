@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	// Original shader: TranslucentSpecularCubicEnvMap
+	"$additive" 1
+	"$basetexture" "models/props_c17/chandelierglass01"
+	"$envmap" "environment maps/vert_color_test01"
+	"$envmapmask" "models/Lighting/W_Chandelier01/chandelierglass01_envmask"
+	"$envmaptint" "[ 0.50 0.50 0.50 ]"
+	"$model" 1
+}

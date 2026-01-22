@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/hydra/bodysplit"
+	"$gradienttexture" "models/hydra/gradient"
+	"$no_fullbright" 1
+	"$additive" 1
+	"$model" 1
+}

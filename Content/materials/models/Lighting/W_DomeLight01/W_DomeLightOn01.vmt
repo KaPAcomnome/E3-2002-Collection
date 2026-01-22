@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitSelfIlluminatedTexture
+	"$basetexture" "models/Lighting/W_DomeLight01/W_DomeLightOn01"
+	"$selfillum" 1
+}

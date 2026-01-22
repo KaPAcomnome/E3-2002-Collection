@@ -1,0 +1,8 @@
+
+"VertexLitGeneric"
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$translucent" 1
+	"$basetexture" "Models/props_wasteland/traintrack001"
+	"$surfaceprop" "wood"
+}

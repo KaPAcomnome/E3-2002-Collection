@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexlitTexture
+	"$basetexture" "models/props_c17/lamppost01d"
+}

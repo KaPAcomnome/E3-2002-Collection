@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props_c17/storescale01a"
+//	"$basealphaenvmapmask" 1
+	"$envmapmask" "Models/props_c17/storescale01a_mask"
+	"$envmap" "env_cubemap"
+
+}
+
+

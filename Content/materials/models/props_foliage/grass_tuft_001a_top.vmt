@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTextureAlphaBlend
+	"$translucent" 1
+	"$basetexture" "models/props_foliage/Grass_tuft_001a_top"
+	"$model" 1
+	"$nocull" 1
+}

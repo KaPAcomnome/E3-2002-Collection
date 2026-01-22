@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "Models/props_c17/doorknob01"
+	"$envmapmask" "Models/props_c17/doorknob01_mask"
+	//"$envmap" "environment maps/envmap001a"
+	"$envmap" "env_cubemap"
+	"$multipass" 1
+	"$surfaceprop" "metal"
+}
+
+
+

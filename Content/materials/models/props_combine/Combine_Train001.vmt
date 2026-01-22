@@ -1,0 +1,10 @@
+"VertexLitGeneric_DX8"
+{
+	"$basetexture" "models/props_combine/Combine_Train001"
+	"$surfaceprop" "metal"
+	"$nocull" 1
+	"$envmap" "Environment Maps/envmapcombine"
+	"$envmapsphere" 1
+	"$envmaptint" "[ .5 .5 .5]"
+	"$basealphaenvmapmask" 1
+}

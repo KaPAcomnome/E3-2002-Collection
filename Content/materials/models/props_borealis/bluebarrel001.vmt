@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props_borealis/bluebarrel001"
+	"$surfaceprop" "plastic"
+
+	"$bumpmap" "dev/flat_normal"
+	"$phong" "1"
+	"$phongexponent" "17"
+	"$phongboost"	".4"
+	"$phongfresnelranges"	"[1 .03 1]"
+}
+

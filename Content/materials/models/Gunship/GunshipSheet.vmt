@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Gunship/GunshipSheet"
+	"$envmapmask" "models/gunship/GunshipSheet_mask"
+	"$envmap" "env_cubemap"
+}

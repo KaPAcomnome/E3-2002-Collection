@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" .1
+	"$envmapcontrast" .5
+	"$envmaptint" "[0.8 0.8 0.8 ]"	
+	"$normalmapalphaenvmapmask" 1
+	"$baseTexture" "Models/Weapons/V_grenade/grenadetop"
+}

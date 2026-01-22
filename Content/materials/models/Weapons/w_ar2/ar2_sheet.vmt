@@ -1,0 +1,12 @@
+"Vertexlitgeneric"
+{
+	
+	"$basetexture" "models/Weapons/w_ar2/ar2_sheet"
+	//"$bumpmap" "models/Weapons/w_ar2/ar2_sheet_normal"
+
+	//"$phong" "1"
+	//"$phongexponent" "45"
+	//"$phongboost"	"2"
+	//"$phongfresnelranges"	"[.2 4 1]"
+
+}

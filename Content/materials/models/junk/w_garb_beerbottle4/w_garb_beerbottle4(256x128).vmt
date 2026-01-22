@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Junk/W_Garb_BeerBottle4/W_Garb_BeerBottle4(256x128)"
+}

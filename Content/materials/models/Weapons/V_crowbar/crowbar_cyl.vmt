@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Weapons/v_crowbar/crowbar_cyl"
+	"$bumpmap" "models/Weapons/v_crowbar/crowbar_normal"
+	"$envmaptint" "[.5 .5 .5]"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+}

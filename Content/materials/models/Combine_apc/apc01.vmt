@@ -1,0 +1,16 @@
+"VertexLitGeneric_DX8"
+{
+	//"$color"				"[1 1 1]"
+	"$baseTexture"			"models/combine_apc/apc01"
+	//"$envmapshpere"			"1"
+	//"$normalmapalphaenvmapmask"	"1"
+	"$basealphaenvmapmask"		"1"
+	//"$envmap"				"environment maps/cave001"
+	//"$bumpmap"			"models/combine_apc/apc_normal"
+	//"$envmapmask"			"models/combine_apc/apc_normal"
+	"$envmaptint" "[ .4 .4 .4]"
+	"$envmap" "Environment Maps/envmapcombine"
+	"$envmapsphere" 1
+
+
+}

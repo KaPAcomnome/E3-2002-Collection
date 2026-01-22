@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"tile/tileroof001a"
+	"%keywords"		"c17downtown"
+	"$bumpmap"		"tile/tileroof001a_normal"
+	"$model"		"1"
+}

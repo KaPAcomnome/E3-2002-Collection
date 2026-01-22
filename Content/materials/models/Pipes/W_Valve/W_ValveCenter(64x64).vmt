@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Pipes/W_Valve/W_ValveCenter(64x64)"
+}

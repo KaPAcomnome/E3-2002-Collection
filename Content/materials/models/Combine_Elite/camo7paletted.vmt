@@ -1,0 +1,22 @@
+"BaseTimesMod2xEnvMap"
+//"VertexLitGeneric" // Nice and gray, vertex-lit
+//"UnlitGeneric" // Unlit gray
+//"UnlitGeneric_DX8"
+{
+	"$basetexture" "models/combine_elite/camo7small"
+	"$envmap" "models/combine_elite/envmap"
+	"$model" 1
+	"$camopatterntexture" "materials/models/combine_elite/camo7small.tga"
+	"$camoboundingboxmin" "[ 0.00 0.00 0.00 ]"
+	"$camoboundingboxmax" "[ 1.00 1.00 0.50 ]"
+
+	"Proxies"
+	{
+		"Camo"
+		{
+		//	"camopatterntexture" "hl2/materials/models/combine_elite/camo7small.tga"
+		//	"camoboundingboxmin" "[ 0.00 0.00 0.00 ]"
+		//	"camoboundingboxmax" "[ 1.00 1.00 0.50 ]"
+		}
+	}
+}

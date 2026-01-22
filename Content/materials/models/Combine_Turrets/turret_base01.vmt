@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/Combine_Turrets/turret_base01"
+	"$surfaceprop" "metal"
+}

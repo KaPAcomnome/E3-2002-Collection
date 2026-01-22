@@ -1,0 +1,9 @@
+"VertexLitGeneric_DX8"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/Roller/Roller"
+	"$envmapmask" "models/Roller/Roller_mask"
+	"$envmap" "models/Roller/Roller_envmap"
+	"$envmapsphere" 1
+	"$multipass" 1
+}

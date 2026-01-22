@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$translucent"		"1"
+	"$basetexture"		"Metal/metalfence001a"
+	"%compilepassbullets"		"1"
+	"%keywords"		"c17downtown"
+	"$alphatest"		"1"
+	"$AlphaTestReference"		"0.500000"
+	"$model"		"1"
+}

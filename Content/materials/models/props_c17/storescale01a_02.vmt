@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props_c17/storescale01a"
+	"$nocull" 1
+	"$translucent" 1
+
+}

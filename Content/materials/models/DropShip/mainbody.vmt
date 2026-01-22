@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/Dropship/mainbody"
+	"$envmapmask" "models/Dropship/mainbody_mask"
+	"$envmap" "models/Dropship/dropship_env"
+	"$envmapsphere" 1
+	"$multipass" 1
+}

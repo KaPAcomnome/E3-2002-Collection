@@ -1,0 +1,11 @@
+// Physics Gun
+
+WeaponData
+{
+	// Weapon data is loaded by both the Game and Client DLLs.
+	"printname"	"#HL2_404"
+	"viewmodel"				"models/weapons/v_Physics.mdl"
+	"playermodel"			"models/weapons/w_Physics.mdl"
+	"anim_prefix"			"physgun"
+	"bucket"				"6"
+	"bucket_position"		"6"

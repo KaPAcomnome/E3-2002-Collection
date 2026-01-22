@@ -1,0 +1,9 @@
+"VertexLitGeneric_DX8"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/shield_scanner/mat9"
+	"$envmapmask" "models/shield_scanner/mat9mask"
+	"$envmap" "models/shield_scanner/mat1env"
+	"$envmapsphere" 1
+	"$multipass" 1
+}

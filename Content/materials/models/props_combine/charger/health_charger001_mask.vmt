@@ -1,0 +1,9 @@
+
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_combine/charger/health_charger001"
+	"$surfaceprop" "metal"
+	"$translucent" 1
+	"$nocull" 1
+	
+}

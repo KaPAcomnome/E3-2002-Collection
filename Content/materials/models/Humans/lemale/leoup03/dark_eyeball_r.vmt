@@ -1,0 +1,5 @@
+"eyes"
+{
+	"$basetexture" "models/citizen/dark_eyeball_r"
+	"$iris" "models/Humans/lemale/leoup03/pupil_r"
+}

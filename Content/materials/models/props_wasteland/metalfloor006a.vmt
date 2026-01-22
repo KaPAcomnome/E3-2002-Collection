@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTimesLightmap	
+	"$basetexture" "Metal/metalfloor006a_old"
+	"$surfaceprop" "metal"
+	"%keywords" "borealis,kraken"
+}

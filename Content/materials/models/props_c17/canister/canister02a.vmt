@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_c17/canister/canister02a"
+	"$envmapmask" "Models/props_c17/canister/canister02a_mask"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$multipass" 1
+	"$surfaceprop" "metal"
+}
+
+

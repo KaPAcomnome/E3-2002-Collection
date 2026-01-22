@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_c17/sink01_dirty"
+	"$envmapmask" "Models/props_c17/sink01_dirty_mask"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$multipass" 1
+}
+

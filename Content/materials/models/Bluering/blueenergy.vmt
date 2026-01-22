@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	// Original shader: AddTexture
+	"$basetexture" "models/bluering/blueenergy"
+	"$additive" 1
+	"$vertexcolor" 1
+	"$model" 1
+}

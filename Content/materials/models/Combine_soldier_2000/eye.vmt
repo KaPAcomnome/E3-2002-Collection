@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"Models/Combine_soldier_2000/eye"
+	$selfillum 1
+	"$surfaceprop" "flesh"
+}
+
+
+

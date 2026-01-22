@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Models/props_c17/audio/props_c17/arch02a"
+	"$surfaceprop" "metal"
+      "$model" 1
+}

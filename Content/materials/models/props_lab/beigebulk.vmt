@@ -1,0 +1,7 @@
+// opaque, envmapped
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_lab/beigebulk"
+	"$envmapmask" "Models/props_lab/beigebulk_m"
+	"$envmap" "env_cubemap"
+}

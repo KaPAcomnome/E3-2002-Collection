@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$envmapsphere"		"1"
+	"$basealphaenvmapmask"		"1"
+	"$basetexture"		"Concrete/concretewall014b"
+//	"$envmap"		"environment maps/envmap001a"
+	"%keywords"		"c17downtown"
+	"$model"		"1"
+}

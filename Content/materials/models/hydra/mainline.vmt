@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: addtexture
+	"$basetexture" "models/hydra/mainline"
+	"$no_fullbright" 1
+	"$additive" 1
+	"$model" 1
+}

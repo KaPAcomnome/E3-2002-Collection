@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/birther/case"
+//	"$bumpmap" "models/birther/case_normal"
+//	"$envmapmask" "models/birther/case_m"
+//	"$envmap" "models/birther/antlion_env"
+//	"$envmapsphere" 1
+	"$surfaceprop" "flesh"
+}

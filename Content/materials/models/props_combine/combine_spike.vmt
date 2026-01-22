@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_combine/combine_spike"
+	"$surfaceprop" "metal"
+}

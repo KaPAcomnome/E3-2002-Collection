@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/Citadel/blackglass"
+	"$selfillum" "1"
+	"$bumpmap" "models/Citadel/blackglass_normal"
+	"$envmapmask" "models/Citadel/blackglass_mask"
+	"$envmap" "Environment Maps/citfar_01"
+	"$envmaptint" "[1 1 1]"
+	"$envmapsphere" 1
+}

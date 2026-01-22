@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTextureAlphaBlend
+	"$translucent" 1
+	"$basetexture" "models/props_borealis/deckrail_net01a"
+	"$nocull" 1
+	"$model" 1
+}

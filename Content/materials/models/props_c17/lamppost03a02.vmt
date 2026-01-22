@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_c17/lamppost03a"
+	"$envmapmask" "Models/props_c17/lamppost03a_mask"
+	"$envmap" "env_cubemap"	
+	"$surfaceprop" "glass"
+	"$translucent" 1
+	"$nocull" 1
+}
+

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Junk/W_Garb_NewsPaper4/W_Garb_NewsPaper4"
+}

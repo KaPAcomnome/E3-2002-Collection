@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	
+	"$basetexture" "Models/Building_details/W_SurveilanceDome01_glass"
+	"$surfaceprop" "glass"
+	"$translucent" "1"
+}

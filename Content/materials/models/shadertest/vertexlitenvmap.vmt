@@ -1,0 +1,6 @@
+"VertexLitGeneric_DX8"
+{
+	"%tooltexture" "models/shadertest/VertexLitTexture"
+	"$envmap" "shadertest/envmap"
+	"$envmapsphere" 1
+}

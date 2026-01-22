@@ -1,0 +1,8 @@
+"VertexLitGeneric_DX8"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/Police_Qleebsooru/head"
+	"$envmapmask" "models/Police/headmask"
+	"$envmap" "models/Police/headenvmap"
+	"$envmapsphere" 1
+}

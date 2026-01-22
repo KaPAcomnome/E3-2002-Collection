@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Plaster/plasterwall025b"
+	"$bumpmap"		"plaster/plasterwall025b_normal"
+	"$model"		"1"
+}

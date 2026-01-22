@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Lighting/streetlampglassoff02"
+	"$envmap" "environment maps/envmap005a"
+	"$model" 1
+}

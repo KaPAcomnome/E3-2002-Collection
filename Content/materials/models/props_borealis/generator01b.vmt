@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTranslucentTexture
+	"$basetexture" "Models/props_borealis/generator01b"
+	"$envmapmask" "Models/props_borealis/generator01b_mask"
+	"$envmap" "environment maps/envmap001a"
+	"$surfaceprop" "glass"
+}
+

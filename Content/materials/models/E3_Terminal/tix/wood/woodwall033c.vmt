@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Wood/woodwall033c"
+	"%keywords"		"c17downtown"
+	"$envmapmask"		"Wood/woodwall033c_mask"
+	"$model"		"1"
+}

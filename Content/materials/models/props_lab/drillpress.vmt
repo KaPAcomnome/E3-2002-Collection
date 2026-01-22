@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+
+	"$basetexture" "Models/props_lab/DrillPress"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+}

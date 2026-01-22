@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+     "$basetexture" "models\props_borealis\switch_fire001"
+     "$surfaceprop" "metal"
+}

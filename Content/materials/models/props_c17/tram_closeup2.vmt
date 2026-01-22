@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_c17/Tram_closeup2"
+	"$surfaceprop" "metal"
+	"$Alphatest" 1
+	"$nocull" 1
+}

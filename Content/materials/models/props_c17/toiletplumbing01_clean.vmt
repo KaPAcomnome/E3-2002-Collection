@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_c17/toiletplumbing01_clean"
+	"$envmapmask" "Models/props_c17/toiletplumbing01_clean_mask"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$multipass" 1
+}
+
+
+

@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props_rooftop/Dome002"
+	"$surfaceprop" "metal"
+//	"$nocull" 1
+	"$bumpmap" "Models/props_rooftop/Dome002_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+
+}
+
+

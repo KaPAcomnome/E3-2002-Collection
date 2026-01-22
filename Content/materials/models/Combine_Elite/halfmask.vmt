@@ -1,0 +1,8 @@
+"VertexLitGeneric_DX8"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/combine_elite/halfmask"
+	"$envmap" "models/combine_elite/leatherspec"
+	"$envmapmask" "models/combine_elite/halfmask_mask"
+	"$envmapsphere" 1
+}

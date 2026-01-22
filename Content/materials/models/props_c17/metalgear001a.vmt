@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$translucent" 1
+	"$basetexture" "Props/metalgear001a"
+	"$nocull" 1
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.5"
+}

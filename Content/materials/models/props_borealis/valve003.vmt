@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_borealis/valve003"
+	"$envmapmask" "Models/props_borealis/valve003_mask"
+	"$envmap" "env_cubemap"	
+	"$surfaceprop" "metal"
+}

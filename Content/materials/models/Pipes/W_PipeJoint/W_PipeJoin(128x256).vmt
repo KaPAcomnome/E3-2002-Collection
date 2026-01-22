@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Pipes/W_PipeJoint/W_PipeJoin(128x256)"
+}

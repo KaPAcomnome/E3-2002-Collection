@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/hydra/gut"
+	"$gradienttexture" "models/hydra/gutgradient"
+	"$model" 1
+}

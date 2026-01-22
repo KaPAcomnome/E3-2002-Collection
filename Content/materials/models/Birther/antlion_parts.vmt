@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/birther/antlion_parts"
+	"$surfaceprop" "flesh"
+}

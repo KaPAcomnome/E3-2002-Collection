@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Concrete/concretewall064b_old"
+	"$surfaceprop" "concrete"
+}

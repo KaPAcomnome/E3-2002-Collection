@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Gunship/GS_engine"
+	$selfillum 1
+}

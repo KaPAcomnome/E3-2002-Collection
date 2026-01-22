@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"glass/glasswindow027a"
+	"%keywords"		"c17downtown"
+	"$bumpmap"		"glass/glasswindow027a_normal"
+	"$envmap"		"env_cubemap"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmapcontrast"		"1"
+	"$envmapsaturation"		"1"
+	"$envmaptint"		"[2 2 2]"
+	"$model"		"1"
+}

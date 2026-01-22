@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Building_Template/Building_Skybridge_Template001a"
+	"$surfaceprop" "concrete"
+	//"$translucent" 1
+}

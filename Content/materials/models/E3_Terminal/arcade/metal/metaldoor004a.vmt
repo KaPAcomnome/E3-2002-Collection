@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Metal/metaldoor004a"
+	"%keywords"		"c17industrial"
+	"$envmap"		"env_cubemap"
+	"$bumpmap"		"Metal/metaldoor004a_normal"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmapcontrast"		"1"
+	"$envmapsaturation"		"1"
+	"$envmaptint"		"[ 0.5 0.5 0.5 ]"
+	"$model"		"1"
+}

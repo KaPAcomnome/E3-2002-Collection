@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitSelfIlluminatedTexture
+	"$basetexture" "models/props_wasteland/W_LightShadeBottomOn"
+	"$selfillum" 1
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTranslucentTexture
+	"$translucent" 1
+	"$basetexture" "models/Lighting/W_DeckLight01/W_MetalDeckLightGlass01"
+}

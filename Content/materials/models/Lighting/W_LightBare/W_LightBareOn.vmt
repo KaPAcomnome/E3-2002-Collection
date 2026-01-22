@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	// Original shader: VertexLitSelfIlluminatedTexture
+	"$basetexture" "models/Lighting/W_LightBare/W_LightBareOn"
+	"$model" 1
+}

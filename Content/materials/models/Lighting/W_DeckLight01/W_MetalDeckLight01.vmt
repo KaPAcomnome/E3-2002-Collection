@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	// Original shader: VertexLitSelfIlluminatedTexture
+	"$basetexture" "models/Lighting/W_DeckLight01/W_MetalDeckLight01"
+	"$model" 1
+}

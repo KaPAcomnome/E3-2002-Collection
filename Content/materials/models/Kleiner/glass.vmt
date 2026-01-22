@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	// Original shader: TranslucentSpecularSphericalEnvMap
+	"$additive" 1
+	"$envmap" "models/Kleiner/glass"
+	"$envmapsphere" 1
+}

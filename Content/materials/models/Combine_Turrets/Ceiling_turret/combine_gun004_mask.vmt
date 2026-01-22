@@ -1,0 +1,9 @@
+
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Combine_turrets/Ceiling_turret/combine_gun004"
+	"$surfaceprop" "metal"
+	"$translucent" 1
+	"$nocull" 1
+	
+}

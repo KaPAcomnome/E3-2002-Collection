@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/Crane_Docks02/crane02a"
+	"$surfaceprop" "metal"
+	"$alphatest" 1
+
+}

@@ -1,0 +1,10 @@
+
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_borealis/borealis_crane001"
+	"$surfaceprop" "metal"
+	//"$envmap" "env_cubemap"
+
+}
+
+

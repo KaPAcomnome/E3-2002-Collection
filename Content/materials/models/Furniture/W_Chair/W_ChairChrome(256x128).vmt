@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Furniture/W_Chair/W_ChairChrome(256x128)"
+}

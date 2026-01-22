@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Combine_turrets/Ceiling_turret/combine_gun004"
+	"$surfaceprop" "metal"
+	//"$envmap" "Environment Maps/envmapcombine"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .5 .5 .5]"
+	"$basealphaenvmapmask" 1
+	"$envmapmask" "models/Combine_turrets/Ceiling_turret/combine_gun004_mask"
+}

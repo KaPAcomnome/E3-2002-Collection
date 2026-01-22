@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$translucent" 1
+	"$basetexture" "Metal/metalgrate014a"
+	"%compilepassbullets" 1
+	"$surfaceprop" "metalgrate"
+}

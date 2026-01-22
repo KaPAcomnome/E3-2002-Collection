@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$translucent" 1
+//	"$alphatest" 1
+	"$basetexture" "Models/Props_foliage/treeboughs001c"
+	"$nocull" 1
+	"$model" 1
+}

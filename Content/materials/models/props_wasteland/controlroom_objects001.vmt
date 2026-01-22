@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Models/props_wasteland/controlroom_objects001"
+	"$surfaceprop" "metal"
+	
+}

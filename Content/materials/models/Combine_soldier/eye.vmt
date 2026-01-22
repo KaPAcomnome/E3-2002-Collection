@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"Models/Combine_soldier/eye"
+
+	"$envmap" "env_cubemap"	
+	"$envmapsaturation" .1
+	"$envmaptint" "[0.6 0.6 0.6]"
+	"$envmapcontrast" 1
+		"$selfillum" 1
+}
+
+
+

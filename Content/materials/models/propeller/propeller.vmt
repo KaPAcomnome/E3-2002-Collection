@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\propeller\propeller"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\propeller\propeller_ref"
+
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/props_c17/kiosk_spire"
+	"$bumpmap" "Models/props_c17/kiosk_spire_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.2 0.2 0.2 ]"
+	"$envmapconstrast" "1"
+	"$normalmapalphaenvmapmask" 1
+}

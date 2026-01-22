@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Models/props_combine/metcombinebridge06"
+	"$surfaceprop" "metal"
+}

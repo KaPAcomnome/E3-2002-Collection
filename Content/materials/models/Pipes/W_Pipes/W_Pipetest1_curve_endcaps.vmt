@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Pipes/W_Pipes/W_Pipetest1_curve_endcaps"
+}

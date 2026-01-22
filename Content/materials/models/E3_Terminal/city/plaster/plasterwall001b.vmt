@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Plaster/plasterwall001b"
+	"%keywords"		"c17downtown"
+	"$envmap"		"env_cubemap"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmapcontrast"		"1"
+	"$envmapsaturation"		"1"
+	"$envmaptint"		"[ .5 .5 .5]"
+	"$model"		"1"
+}

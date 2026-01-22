@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props_borealis/light_decklight"
+	"$surfaceprop" "metal"
+	"$nocull" 1
+}
+

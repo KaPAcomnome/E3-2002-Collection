@@ -1,0 +1,11 @@
+
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_borealis/metal_combinechamber001"
+	"$surfaceprop" "metal"
+	"$nocull" 1
+	//"$envmap" "env_cubemap"
+
+}
+
+

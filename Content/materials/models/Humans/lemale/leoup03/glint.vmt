@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	// Original shader: AddTexture
+	"$basetexture" "models/Humans/lemale/leoup03/glint"
+	"$additive" 1
+	"$model" 1
+}

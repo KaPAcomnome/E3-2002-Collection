@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Weapons/V_ar2/misc_bits"
+	"$envmap" "Environment Maps/specular"
+	"$envmaptint" "[.05 .05 .05]"
+	"$envmap" "env_cubemap"
+}

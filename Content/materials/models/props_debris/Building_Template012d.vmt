@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Building_Template/Building_Template012d"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "Building_Template/Building_Template012d_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .5 .5 .5]"
+}

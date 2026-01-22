@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Fire_equipment/W_WeldTank2/W_WeldTank2 (merge) (512)"
+}

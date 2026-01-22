@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Concrete/concretewall066a"
+	"$surfaceprop" "concrete"
+	"%keywords" "coastline"
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTranslucentTexture
+	"$baseTexture" "models/props_borealis/generator01b"
+	"$surfaceprop" "metal"
+//	"$selfillum" 1
+}
+

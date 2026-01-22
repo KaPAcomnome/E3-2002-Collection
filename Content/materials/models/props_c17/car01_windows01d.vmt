@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTranslucentTexture
+	"$baseTexture" "models/props_c17/car01_windows01d"
+//	"$translucent" 1
+}
+

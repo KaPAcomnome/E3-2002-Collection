@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/brokenglass/glassbroken_01"
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

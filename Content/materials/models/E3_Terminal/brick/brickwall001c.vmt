@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Brick/brickwall001c"
+	"%keywords"		"c17downtown"
+	"$bumpmap"		"brick/brickwall001c_normal"
+	"$model"		"1"
+}

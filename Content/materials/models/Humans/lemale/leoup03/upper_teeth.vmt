@@ -1,0 +1,6 @@
+"Teeth"
+{
+	"$basetexture" "models/Humans/lemale/leoup03/upper_teeth"
+	"$model" 1
+	"$clientshader" "MouthShader"
+}

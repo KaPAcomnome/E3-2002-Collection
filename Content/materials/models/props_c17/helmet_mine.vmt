@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/props_c17/helmet_mine"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/props_c17/helmet_mine_ref"
+	"$surfaceprop"	"metal"
+}
