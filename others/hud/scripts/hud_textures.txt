@@ -1,0 +1,654 @@
+"sprites/640_hud"
+{
+	TextureData
+	{
+		"selection"
+		{
+				"file"		"sprites/640hud3"
+				"x"			"0"
+				"y"			"180"
+				"width"		"170"
+				"height"	"45"
+		}
+		"dmg_bio"
+		{
+				"file"		"sprites/d_icons"
+				"x"			"42"
+				"y"			"38"	
+				"width"		"42"
+				"height"	"38"
+		}
+		"dmg_poison"
+		{
+				"file"		"sprites/640hud8"
+				"x"			"128"
+				"y"			"0"
+				"width"		"64"
+				"height"	"64"
+		}
+		"dmg_chem"
+		{
+				"file"		"sprites/640hud8"
+				"x"			"0"
+				"y"			"0"
+				"width"		"64"
+				"height"	"64"
+		}
+		"dmg_cold"
+		{
+				"file"		"sprites/640hud9"
+				"x"			"64"
+				"y"			"0"
+				"width"		"64"
+				"height"	"64"
+		}
+		"dmg_drown"
+		{
+				"file"		"sprites/d_icons"
+				"x"			"42"
+				"y"			"0"
+				"width"		"42"
+				"height"	"38"
+		}
+		"dmg_heat"
+		{
+				"file"		"sprites/d_icons"
+				"x"			"0"
+				"y"			"0"
+				"width"		"42"
+				"height"	"38"
+		}
+		"dmg_gas"
+		{
+				"file"		"sprites/640hud9"
+				"x"			"0"
+				"y"			"0"
+				"width"		"64"
+				"height"	"64"
+		}
+		"dmg_rad"
+		{
+				"file"		"sprites/d_icons"
+				"x"			"0"
+				"y"			"38"
+				"width"		"42"
+				"height"	"38"
+		}
+		"dmg_shock"
+		{
+				"file"		"sprites/d_icons"
+				"x"			"84"
+				"y"			"0"
+				"width"		"42"
+				"height"	"38"
+		}
+		"ammo_label"
+		{
+			//	"file"		"sprites/hud1"
+			//	"x"			"120"
+			//	"y"			"28"
+			//	"width"		"40"
+			//	"height"	"14"
+
+				"file"		"sprites/hud2"
+				"x"			"119"
+				"y"			"28"
+				"width"		"41"
+				"height"	"14"
+		}
+		"health_label"
+		{
+			//	"file"		"sprites/hud1"
+			//	"x"			"160"
+			//	"y"			"28"
+			//	"width"		"50"
+			//	"height"	"14"
+
+			// VXP: Almost good
+			//	"file"		"sprites/hud1"
+			//	"x"			"163"
+			//	"y"			"30"
+			//	"width"		"46"
+			//	"height"	"10"
+			
+				"file"		"sprites/hud2"
+				"x"			"160"
+				"y"			"28"
+				"width"		"50"
+				"height"	"14"
+		}
+		"battery_label"
+		{
+			//	"file"		"sprites/hud1"
+			//	"x"			"220"
+			//	"y"			"28"
+			//	"width"		"40"
+			//	"height"	"14"	
+			
+				"file"		"sprites/hud2"
+				"x"			"220"
+				"y"			"28"
+				"width"		"40"
+				"height"	"14"	
+		}
+
+		// VXP: Normal numbers
+		"number_0"
+		{
+				"file"		"sprites/hud1"
+				"x"			"0"
+				"y"			"0"
+				"width"		"20"
+				"height"	"27"
+		}
+		"number_1"
+		{
+				"file"		"sprites/hud1"
+				"x"			"20"
+				"y"			"0"
+				"width"		"19"
+				"height"	"27"
+		}
+		"number_2"
+		{
+				"file"		"sprites/hud1"
+				"x"			"40"
+				"y"			"0"
+				"width"		"19"
+				"height"	"27"
+		}
+		"number_3"
+		{
+				"file"		"sprites/hud1"
+				"x"			"60"
+				"y"			"0"
+				"width"		"19"
+				"height"	"27"
+		}
+		"number_4"
+		{
+				"file"		"sprites/hud1"
+				"x"			"80"
+				"y"			"0"
+				"width"		"19"
+				"height"	"27"
+		}
+		"number_5"
+		{
+				"file"		"sprites/hud1"
+				"x"			"101"
+				"y"			"0"
+				"width"		"19"
+				"height"	"27"
+		}
+		"number_6"
+		{
+				"file"		"sprites/hud1"
+				"x"			"121"
+				"y"			"0"
+				"width"		"19"
+				"height"	"27"
+		}
+		"number_7"
+		{
+				"file"		"sprites/hud1"
+				"x"			"141"
+				"y"			"0"
+				"width"		"19"
+				"height"	"27"
+		}
+		"number_8"
+		{
+				"file"		"sprites/hud1"
+				"x"			"161"
+				"y"			"0"
+				"width"		"19"
+				"height"	"27"
+		}
+		"number_9"
+		{
+				"file"		"sprites/hud1"
+				"x"			"180"
+				"y"			"0"
+				"width"		"19"
+				"height"	"27"
+		}
+		"number_dummy1"
+		{
+				"file"		"sprites/hud1"
+				"x"			"201"
+				"y"			"0"
+				"width"		"19"
+				"height"	"27"
+		}
+		"number_dummy2"
+		{
+				"file"		"sprites/hud1"
+				"x"			"221"
+				"y"			"0"
+				"width"		"19"
+				"height"	"27"
+		}
+
+		// VXP: Small numbers
+		"number_0_small"
+		{
+				"file"		"sprites/hud1"
+				"x"			"1"
+				"y"			"28"
+				"width"		"10"
+				"height"	"14"
+		}
+		"number_1_small"
+		{
+				"file"		"sprites/hud1"
+				"x"			"10"
+				"y"			"28"
+				"width"		"10"
+				"height"	"14"
+		}
+		"number_2_small"
+		{
+				"file"		"sprites/hud1"
+				"x"			"19"
+				"y"			"28"
+				"width"		"10"
+				"height"	"14"
+		}
+		"number_3_small"
+		{
+				"file"		"sprites/hud1"
+				"x"			"30"
+				"y"			"28"
+				"width"		"10"
+				"height"	"14"
+		}
+		"number_4_small"
+		{
+				"file"		"sprites/hud1"
+				"x"			"40"
+				"y"			"28"
+				"width"		"10"
+				"height"	"14"
+		}
+		"number_5_small"
+		{
+				"file"		"sprites/hud1"
+				"x"			"49"
+				"y"			"28"
+				"width"		"10"
+				"height"	"14"
+		}
+		"number_6_small"
+		{
+				"file"		"sprites/hud1"
+				"x"			"60"
+				"y"			"28"
+				"width"		"10"
+				"height"	"14"
+		}
+		"number_7_small"
+		{
+				"file"		"sprites/hud1"
+				"x"			"69"
+				"y"			"28"
+				"width"		"10"
+				"height"	"14"
+		}
+		"number_8_small"
+		{
+				"file"		"sprites/hud1"
+				"x"			"80"
+				"y"			"28"
+				"width"		"10"
+				"height"	"14"
+		}
+		"number_9_small"
+		{
+				"file"		"sprites/hud1"
+				"x"			"90"
+				"y"			"28"
+				"width"		"10"
+				"height"	"14"
+		}
+		"number_dummy1_small"
+		{
+				"file"		"sprites/hud1"
+				"x"			"100"
+				"y"			"28"
+				"width"		"10"
+				"height"	"14"
+		}
+		"number_dummy2_small"
+		{
+				"file"		"sprites/hud1"
+				"x"			"110"
+				"y"			"28"
+				"width"		"10"
+				"height"	"14"
+		}
+
+		// VXP: Already is up there
+	//	"battery_label"
+	//	{
+	//			"file"		"sprites/hud1"
+	//			"x"			"220"
+	//			"y"			"28"
+	//			"width"		"40"
+	//			"height"	"14"	
+	//	}
+		"train_back"
+		{
+				"file"		"sprites/640hud5"
+				"x"			"170"
+				"y"			"0"
+				"width"		"72"
+				"height"	"72"
+		}
+		"train_stop"
+		{
+				"file"		"sprites/640hud5"
+				"x"			"170"
+				"y"			"72"
+				"width"		"72"
+				"height"	"72"
+		}
+		"train_forward1"
+		{
+				"file"		"sprites/640hud5"
+				"x"			"170"
+				"y"			"144"
+				"width"		"72"
+				"height"	"72"
+		}
+		"train_forward2"
+		{
+				"file"		"sprites/640hud6"
+				"x"			"170"
+				"y"			"0"
+				"width"		"72"
+				"height"	"72"
+		}
+		"train_forward3"
+		{
+				"file"		"sprites/640hud6"
+				"x"			"170"
+				"y"			"72"
+				"width"		"72"
+				"height"	"72"
+		}
+		"autoaim_c"
+		{
+				"file"		"sprites/crosshairs"
+				"x"			"96"
+				"y"			"0"
+				"width"		"24"
+				"height"	"24"
+		}
+		"title_half"
+		{
+				"file"		"sprites/640hud4"
+				"x"			"0"
+				"y"			"226"
+				"width"		"256"
+				"height"	"30"
+		}
+		"title_life"
+		{
+				"file"		"sprites/640hud5"
+				"x"			"0"
+				"y"			"226"
+				"width"		"220"
+				"height"	"30"
+		}
+		"d_crowbar"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"0"
+				"width"		"48"
+				"height"	"16"
+		}
+		"d_9mmhandgun"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"16"
+				"width"		"32"
+				"height"	"16"
+		}
+		"d_357"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"32"
+				"width"		"32"
+				"height"	"16"
+		}
+		"d_9mmAR"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"48"
+				"width"		"48"
+				"height"	"16"
+		}
+		"d_shotgun"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"64"
+				"width"		"48"
+				"height"	"16"
+		}
+		"d_bolt"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"80"
+				"width"		"48"
+				"height"	"16"
+		}
+		"d_crossbow"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"80"
+				"width"		"48"
+				"height"	"16"
+		}
+		"d_rpg_rocket"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"96"
+				"width"		"48"
+				"height"	"16"
+		}
+		"d_gauss"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"112"
+				"width"		"32"
+				"height"	"16"
+		}
+		"d_egon"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"128"
+				"width"		"32"
+				"height"	"16"
+		}
+		"d_hornet"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"144"
+				"width"		"48"
+				"height"	"16"
+		}
+		"d_grenade"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"160"
+				"width"		"32"
+				"height"	"16"
+		}
+		"d_satchel"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"176"
+				"width"		"32"
+				"height"	"16"
+		}
+		"d_tripmine"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"192"
+				"width"		"32"
+				"height"	"16"
+		}
+		"d_snark"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"208"
+				"width"		"32"
+				"height"	"16"
+		}
+		"d_skull"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"224"
+				"width"		"32"
+				"height"	"16"
+		}
+		"d_tracktrain"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"192"
+				"y"			"240"
+				"width"		"32"
+				"height"	"16"
+		}
+		"microphone"
+		{
+				"file"		"sprites/640hud1"
+				"x"			"0"
+				"y"			"225"
+				"width"		"24"
+				"height"	"24"
+		}
+		"item_battery"
+		{
+				"file"		"sprites/a_icons1"
+				"x"			"34"
+				"y"			"60"
+				"width"		"21"
+				"height"	"23"
+		}
+		"item_healthkit"
+		{
+				"file"		"sprites/a_icons1"
+				"x"			"34"
+				"y"			"30"
+				"width"		"21"
+				"height"	"21"
+		}
+		"item_longjump"
+		{
+				"file"		"sprites/640hud2"
+				"x"			"176"
+				"y"			"96"
+				"width"		"44"
+				"height"	"44"
+		}
+		"grenade"
+		{
+				"file"		"sprites/640hud7"
+				"x"			"48"
+				"y"			"96"
+				"width"		"24"
+				"height"	"24"
+		}
+		"crosshair"
+		{
+				"file"		"sprites/qi_center"
+				"x"			"0"
+				"y"			"0"
+				"width"		"40"
+				"height"	"40"
+		}
+		"crosshair_left"
+		{
+				"file"		"sprites/qi_center"
+				"x"			"0"
+				"y"			"40"
+				"width"		"28"
+				"height"	"50"
+		}
+		"crosshair_right"
+		{
+				"file"		"sprites/qi_center"
+				"x"			"28"
+				"y"			"40"
+				"width"		"28"
+				"height"	"50"
+		}
+		"viewhair"
+		{
+				"file"		"sprites/hud/v_crosshair2"
+				"x"			"0"
+				"y"			"0"
+				"width"		"32"
+				"height"	"32"
+		}
+		"gunhair"
+		{
+				"file"		"sprites/hud/v_crosshair1"
+				"x"			"0"
+				"y"			"0"
+				"width"		"32"
+				"height"	"32"
+		}
+
+		"progress_bar"
+		{
+			//	"file"		"sprites/hud1"
+			//	"x"			"238"
+			//	"y"			"0"
+			//	"width"		"10"
+			//	"height"	"28"
+
+				"file"		"sprites/hud1"
+				"x"			"241"
+				"y"			"0"
+				"width"		"8"
+				"height"	"27"
+		}
+
+		// LeakNet
+		"ar2_zoommode"
+		{
+				"file"		"sprites/a_icons1"
+				"x"			"19"
+				"y"			"92"
+				"width"		"40"
+				"height"	"24"
+		}
+		"ar2_grenademode"
+		{
+				"file"		"sprites/a_icons1"
+				"x"			"89"
+				"y"			"107"
+				"width"		"40"
+				"height"	"24"
+		}
+	}	
+}
