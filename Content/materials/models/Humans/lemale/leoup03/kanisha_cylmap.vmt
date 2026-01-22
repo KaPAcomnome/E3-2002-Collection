@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Humans/lemale/leoup03/kanisha_cylmap"
-	"$halflambert" 1
-}

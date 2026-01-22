@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapSelfIllum
-	"$basetexture" "Composite/buildingset057a"
-	"$selfillum" 1
-	"$surfaceprop" "concrete"
-	"%keywords" "c17downtown"
-}

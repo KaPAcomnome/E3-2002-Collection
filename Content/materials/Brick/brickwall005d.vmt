@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "stone/stonewall033c"
-	"$envmap" "environment maps/c17_04_23"
-	"$envmaptint" "[.100 .100 .100]"
-	"$envmapmask" "stone/stonewall033c_old_mask"
-	"$surfaceprop" "brick"
-}

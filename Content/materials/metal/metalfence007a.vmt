@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Metal/metalfence007a"
-	"%compilepassbullets" 1
-	"$surfaceprop" "metal"
-	"%keywords" "c17downtown"
-	"$translucent" 1
-}

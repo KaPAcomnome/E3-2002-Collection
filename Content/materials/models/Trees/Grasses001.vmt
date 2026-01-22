@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTranslucentTexture
-	"$translucent" 1
-	"$basetexture" "models/Trees/Grasses001"
-	"$nocull" 1
-}

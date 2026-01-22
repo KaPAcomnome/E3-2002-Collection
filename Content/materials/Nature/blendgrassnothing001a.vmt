@@ -1,8 +1,0 @@
-"WorldVertexAlpha"
-{
-	"$basetexture" "nature/grassfloor001a"
-	"%tooltexture" "nature/grassfloor001a"
-	"%detailtype" "grassland1"
-	"%compilepassbullets" "1"
-	"%keywords" "wasteland"
-}

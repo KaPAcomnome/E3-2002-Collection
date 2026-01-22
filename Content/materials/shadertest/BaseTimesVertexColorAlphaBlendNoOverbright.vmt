@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapAlphaBlend
-	"$baseTexture" "shadertest/BaseTimesLightmapWet"
-	"$vertexcolor" 1
-	"$no_fullbright" 1
-}

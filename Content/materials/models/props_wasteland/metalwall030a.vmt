@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Metal/metalwall030a"
-	"$surfaceprop" "metal"
-}

@@ -1,7 +1,0 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: BaseTimesLightmapAlphaBlend
-	"$basetexture" "Models/props_c17/fence_post"
-	"$surfaceprop" "metal"
-}

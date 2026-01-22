@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	// For testroom_buildings03 and testroom_light_downtown01
-	"$basetexture" "Brick/brickwall030j_older"
-	"$surfaceprop" "brick"
-	"%keywords" "c17industrial,c17sewers"
-}

@@ -1,5 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Bathroom/W_ToiletLidStained/W_ToiletLidStained"
-}

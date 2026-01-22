@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "tile/tileroof001a"
-	"$surfaceprop" "tile"
-	"%keywords" "c17downtown"
-	"$bumpmap" "tile/tileroof001a_normal"
-}

@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Kleiner/kleiner"
-	"$envmapsphere" 1
-}

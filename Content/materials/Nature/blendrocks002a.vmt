@@ -1,8 +1,0 @@
-"WorldVertexTransition"
-{
-	"$basetexture" "nature/rockwall009a"
-	"$basetexture2" "nature/rockwall009b"
-	"%tooltexture" "nature/rockwall009a"
-//	"%detailtype" "rocks1"
-	"%keywords" "wasteland"
-}

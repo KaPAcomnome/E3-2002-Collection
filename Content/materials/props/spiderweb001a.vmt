@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "Props/spiderweb001a"
-	"%compilepassbullets" 1
-	"$surfaceprop" "metal"
-}

@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Concrete/concretefloor014a_old"
-	"$surfaceprop" "concrete"
-
-}

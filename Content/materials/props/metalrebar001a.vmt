@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "props/metalrebar001a"
-	"$surfaceprop" "metal"
-}

@@ -1,8 +1,0 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTimesVertexColorAlphaBlendNoOverbright
-	"$translucent" 1
-	"$basetexture" "scripted/consul002"
-	"$vertexcolor" 1
-	"$additive" 1
-}

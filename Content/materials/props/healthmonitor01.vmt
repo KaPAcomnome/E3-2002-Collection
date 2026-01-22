@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapSelfIllum
-	"$basetexture" "props/healthmonitor01"
-	"$selfillum" 1
-	"$surfaceprop" "metalpanel"
-}

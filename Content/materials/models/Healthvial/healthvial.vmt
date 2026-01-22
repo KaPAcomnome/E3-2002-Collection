@@ -1,5 +1,0 @@
-VertexLitGeneric
-{
-	$baseTexture models/healthvial/healthvial
-	$selfillum 1
-}

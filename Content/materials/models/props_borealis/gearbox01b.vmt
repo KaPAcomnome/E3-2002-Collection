@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTranslucentTexture
-	"$baseTexture" "models/props_borealis/gearbox01b"
-	"$surfaceprop" "glass"
-//	"$selfillum" 1
-}
-

@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models\props_trainstation\Traintrack001a"
-//	"$nocull" 1
-	"$translucent" 1
-
-}

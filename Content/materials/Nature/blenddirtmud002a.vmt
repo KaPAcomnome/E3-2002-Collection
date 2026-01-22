@@ -1,9 +1,0 @@
-"WorldVertexTransition"
-{
-	"$basetexture" "nature/dirtfloor007a"
-	"$basetexture2" "nature/dirtfloor006b"
-	"%tooltexture" "nature/dirtfloor006a"
-	"%detailtype" "grassland1"
-	"%keywords" "wasteland"
-	"$surfaceprop" "mud"
-}

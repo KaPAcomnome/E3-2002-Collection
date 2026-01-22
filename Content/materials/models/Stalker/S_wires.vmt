@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitAlphaTestedTexture
-	"$basetexture" "models/stalker/s_wires"
-	"$alphatest" 1
-}

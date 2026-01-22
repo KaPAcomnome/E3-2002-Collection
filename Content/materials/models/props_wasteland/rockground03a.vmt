@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTexture
-	"$basetexture" "models/props_wasteland/rockgranite03a"
-	"$model" 1
-}

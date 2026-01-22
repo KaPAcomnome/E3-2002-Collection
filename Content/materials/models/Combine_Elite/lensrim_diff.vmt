@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitMaskedEnvMappedTexture
-	"$basetexture" "models/combine_elite/lensrim_diff"
-	"$envmap" "models/combine_elite/leatherspec"
-	"$envmapmask" "models/combine_elite/lensrimmask"
-}

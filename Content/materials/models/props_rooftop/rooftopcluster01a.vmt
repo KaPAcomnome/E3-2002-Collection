@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-     "$basetexture" "models\props_rooftop\RooftopCluster01a"
-     "$surfaceprop" "metal"
-//   "$translucent" 1
-     "$alphatest" 1
-}

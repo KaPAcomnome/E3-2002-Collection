@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Metal/metaldoor013a"
-	"$surfaceprop" "metal"
-	"%keywords" "c17downtown,c17skyscraper"
-}

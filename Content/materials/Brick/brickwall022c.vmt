@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	// Temp redirect until properly restored
-	"$basetexture" "brick/brickwall022c"
-	"$surfaceprop" "concrete"
-	"%keywords" "c17downtown"
-}

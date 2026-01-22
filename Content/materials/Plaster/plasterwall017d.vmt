@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Plaster/plasterwall017d"
-	"$basealphaenvmapmask" 1
-	"$envmap" "environment maps/c17_04_23"
-	"$envmaptint" "[.100 .100 .100]"
-	"$surfaceprop" "plaster"
-	"%keywords" "c17downtown,wasteland"
-}

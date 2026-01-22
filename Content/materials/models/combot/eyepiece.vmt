@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitMaskedEnvMappedTexture
-	"$basetexture" "models/Combot/eyepiece"
-	"$envmapmask" "models/Combot/eyepiecemask"
-}

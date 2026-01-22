@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "props/paperposter006b"
-//	"$alphatest" 1
-	"$translucent" 1
-"$decal" 1
-}

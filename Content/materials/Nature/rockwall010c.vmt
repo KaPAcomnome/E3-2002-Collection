@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Nature/rockwall010c"
-	//"$bumpmap" "Nature/rockwall010a_normal"
-	"$surfaceprop" "concrete"
-}

@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	// For maps such as testroom_buildings03, testroom_light_downtown01
-	"$basetexture" "Plaster/plastercolumn003a"
-	"$surfaceprop" "plaster"
-	"%keywords" "c17downtown"
-}

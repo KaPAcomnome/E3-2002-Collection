@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Combine_turrets/Ceiling_turret/TEMP"
-	"$surfaceprop" "metal"
-}

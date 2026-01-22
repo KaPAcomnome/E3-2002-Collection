@@ -1,7 +1,0 @@
-"WorldVertexAlpha"
-{
-	"$basetexture" "nature/dirtfloor007a"
-	"%tooltexture" "nature/dirtfloor007a"
-	"%compilepassbullets" "1"
-	"%keywords" "wasteland"
-}

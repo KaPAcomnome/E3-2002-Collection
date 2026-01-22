@@ -1,8 +1,0 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTimesVertexColorAlphaBlendNoOverbright
-	"$translucent" 1
-	"$basetexture" "scripted/calabi_true"
-	"$vertexcolor" 1
-//	"$ignorez" 1
-}

@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Vehicle/metaltruck001a"
-	"$surfaceprop" "metal"
-}

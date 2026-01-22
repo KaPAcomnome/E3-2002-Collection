@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "props/antenna001"
-	"$surfaceprop" "metal"
-	"%keywords" "borealis"
-}

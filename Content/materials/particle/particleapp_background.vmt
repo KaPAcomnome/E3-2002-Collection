@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTimesVertexColor
-	"$basetexture" "Particle/particleapp_background"
-	"$no_fullbright" 1
-	"$vertexcolor" 1
-}

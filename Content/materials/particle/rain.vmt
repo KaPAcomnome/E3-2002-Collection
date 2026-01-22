@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTextureAlphaBlend
-	"$translucent" 1
-	"$basetexture" "particle/rain"
-}

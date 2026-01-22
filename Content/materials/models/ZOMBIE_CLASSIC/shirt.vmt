@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Zombie_Classic/shirt"
-	"$translucent" 1
-	"$nocull" 1
-}

@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "glass/glasswindow054a"
-	"$surfaceprop" "glass"
-	"%keywords" "c17industrial"
-}

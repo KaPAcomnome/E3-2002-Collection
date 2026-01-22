@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/Gunship/sideparts"
-	$envmap env_cubemap
-	$envmapmask "models/Gunship/sideparts_mask"
-}

@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: CubicEnvMapBlendMaskedBaseTimesLightmap
-	"$basealphaenvmapmask" 1
-	"$basetexture" "Brick/brickwall054d"
-	"$envmap" "env_cubemap"
-	"$surfaceprop" "brick"
-	"$envmaptint" "[ 0.13 0.13 0.13 ]"
-}

@@ -3,12 +3,12 @@
 WeaponData
 {
 	// Weapon data is loaded by both the Game and Client DLLs.
-	"printname"	"AR2"
-	"viewmodel"			"models/weapons/v_irifle.mdl"
-	"playermodel"			"models/weapons/w_irifle.mdl"
+	"printname"	"AR2 (OICW)"
+	"viewmodel"			"models/weapons/v_oicw.mdl"
+	"playermodel"			"models/weapons/w_oicw.mdl"
 	"anim_prefix"			"ar2"
-	"bucket"			"3"
-	"bucket_position"		"0"
+	"bucket"			"2"
+	"bucket_position"		"1"
 	"bucket_360"			"1"
 	"bucket_position_360"		"2"
 
@@ -28,11 +28,14 @@ WeaponData
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	SoundData
 	{
-		"special1"		"Weapon_CombineGuard.Special1"
-		"empty"			"Weapon_IRifle.Empty"
-		"double_shot"		"Weapon_IRifle.Single"
+		"empty"			"Weapon_AR2.Empty"
+		"double_shot"		"Weapon_AR2.Double"
 		"reload"		"Weapon_AR2.Reload"
 		"single_shot"		"Weapon_AR2.Single"
+		"special1"		"Weapon_AR2.Special1"
+		"special2"		"Weapon_AR2.Special2"
+		"special3"		"Weapon_AR2.Firemode1"
+		"burst"			"Weapon_AR2.Firemode2"
 
 		// NPC SECTION
 		"single_shot_npc"	"Weapon_AR2.NPC_Single"
@@ -66,7 +69,7 @@ WeaponData
 		"ammo2"
 		{
 				"font"		"WeaponIconsSmall"
-				"character"	"z"
+				"character"	"t"
 		}
 		"crosshair"
 		{

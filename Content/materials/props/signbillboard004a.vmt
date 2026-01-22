@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "props/signbillboard004a"
-	"$surfaceprop" "metal"
-	"%keywords" "c17"
-}

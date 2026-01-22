@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/props_borealis/metalhull013a"
-	"%keywords" "borealis"
-	"$surfaceprop" "metal"
-	"$nocull" "1"
-}

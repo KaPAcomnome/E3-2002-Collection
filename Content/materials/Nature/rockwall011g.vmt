@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Nature/rockwall011g"
-	"$surfaceprop" "concrete"
-	"$basealphaenvmapmask" 1
-//	"$envmapmask" "Models/props_c17/display_cooler01a_mask"
-	"$envmap" "env_cubemap"
-
-}

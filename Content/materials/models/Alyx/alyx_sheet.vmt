@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/Alyx/alyx_sheet"
-	"$envmap" "env_cubemap"
-//	"$envmap" "environment maps/specular"	
-	"$basealphaenvmapmask" 1
-//"$envmaptint" "[0.6 0.6 0.6]"
-}

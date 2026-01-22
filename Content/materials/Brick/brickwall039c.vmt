@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Brick/brickwall039c"
-	"$basealphaenvmapmask" 1
-	"$envmap" "environment maps/c17_04_23"
-	"$envmaptint" "[.100 .100 .100]"
-	"$surfaceprop" "brick"
-	"%keywords" "c17downtown"
-}

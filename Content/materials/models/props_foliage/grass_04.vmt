@@ -1,8 +1,0 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTextureAlphaBlend
-	"$alphatest" 1
-	"$basetexture" "models/props_foliage/grass_04"
-	"$model" 1
-	"$nocull" 1
-}

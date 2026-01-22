@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: WorldAdditiveTransEnvMapWithMaskedTexture
-	"$envmapsphere" 1
-	"$basealphaenvmapmask" 1
-	"$basetexture" "Vehicle/metalcar002a"
-	"$envmap" "environment maps/envmap001a"
-	"$surfaceprop" "metal"
-}

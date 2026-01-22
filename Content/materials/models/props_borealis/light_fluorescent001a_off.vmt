@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	
-	"$basetexture" "models/props_borealis/light_fluorescent001a"
-	"$envmap" "env_cubemap"
-	
-}

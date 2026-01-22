@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitAlphaTestedTexture
-	"$basetexture" "models/Zombie_Classic/chest"
-	"$alphatest" 1
-}

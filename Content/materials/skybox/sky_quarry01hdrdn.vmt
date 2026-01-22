@@ -1,7 +1,0 @@
-"Sky"
-{
-	// Original shader: BaseTexture
-	"$basetexture" "skybox/sky_quarry01hdrdn"
-	"$nofog" 1
-	$ignorez 1
-}

@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Props/carpetfloor008a"
-	"$surfaceprop" "carpet"
-	"%keywords" "combine"
-}

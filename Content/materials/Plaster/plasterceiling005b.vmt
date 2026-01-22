@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Plaster/plasterceiling005b"
-	//"$bumpmap" "Plaster/plasterceiling005b_normal"
-	"$surfaceprop" "plaster"
-	"%keywords" "c17skyscraper"
-}

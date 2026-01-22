@@ -1,6 +1,0 @@
-"Teeth"
-{
-	"$basetexture" "models/Alyx/innermouth"
-	"$model" 1
-	"$clientshader" "MouthShader"
-}

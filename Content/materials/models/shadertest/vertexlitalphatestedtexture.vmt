@@ -1,5 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/shadertest/VertexLitAlphaTestedTexture"
-	"$alphatest" 1
-}

@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Wood/woodwall001a"
-	"$surfaceprop" "wood"
-	"%keywords" "wasteland"
-}

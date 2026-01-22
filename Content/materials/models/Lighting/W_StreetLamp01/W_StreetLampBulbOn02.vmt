@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitSelfIlluminatedTexture
-	"$basetexture" "models/Lighting/W_StreetLamp01/W_StreetLampBulbOn02"
-	"$selfillum" 1
-}

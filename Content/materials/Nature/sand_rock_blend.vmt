@@ -1,9 +1,0 @@
-"WorldVertexTransition"
-{
-	"$basetexture" "nature/sandfloor007a"
-	"$basetexture2" "concrete/concretefloor009a"
-	"%tooltexture" "nature/sandfloor007a"
-	"$bumpmap" "Nature/sandfloor007a_normal"
-	"$surfaceprop" "sand"
-	"%keywords" "wasteland"
-}

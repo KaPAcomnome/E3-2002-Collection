@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitSelfIlluminatedTexture
-	"$basetexture" "models/Lighting/W_Fluorescent01/W_GlassFluorescentLightOn01"
-	"$selfillum" 1
-}

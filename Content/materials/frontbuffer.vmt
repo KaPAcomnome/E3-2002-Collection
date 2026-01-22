@@ -1,7 +1,0 @@
-UnlitGeneric
-{
-$basetexture _rt_FullFrameFB
-//$basetexture _rt_FullFrameFB1
-//$basetexture _rt_MotionBlur
-$ignorez 1
-}

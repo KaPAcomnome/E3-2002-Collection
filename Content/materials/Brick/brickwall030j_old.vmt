@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	// For c17_03_08, scraper_base04, sky_walk01
-	"$basetexture" "Brick/brickwall030j_old"
-	"$surfaceprop" "brick"
-	"%keywords" "c17industrial,c17sewers"
-}

@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/APC/buggy_temp"
-	"$surfaceprop" "metal"
-}

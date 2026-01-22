@@ -1,7 +1,0 @@
-"vertexlitGeneric"
-{
-	// Original shader: BaseTexture
-	"$basetexture" "models/props_foliage/treeoakbark"
-	"$model" 1
-}
-

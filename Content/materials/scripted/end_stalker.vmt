@@ -1,8 +1,0 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTimesVertexColorAlphaBlendNoOverbright
-	"$translucent" 1
-	"$basetexture" "scripted/end_stalker"
-	"$vertexcolor" 1
-	"$additive" 1
-}

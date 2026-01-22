@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Nature/cavewall002a"
-	"$surfaceprop" "concrete"
-}

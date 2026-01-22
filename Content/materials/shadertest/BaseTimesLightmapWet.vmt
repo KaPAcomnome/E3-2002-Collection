@@ -1,9 +1,0 @@
-"BaseTimesLightmapWet"
-{
-	"$baseTexture" "shadertest/BaseTimesLightmapWet"
-	"$wetBrightnessFactor" 0.4
-//	"$envmap" "shadertest/cubemap"
-	"$envmap" "env_cubemap"
-	"$bumpmap" "shadertest/WorldDiffuseBumpmap_normal"
-	"%compileWet" 1
-}

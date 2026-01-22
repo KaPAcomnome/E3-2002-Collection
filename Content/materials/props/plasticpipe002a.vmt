@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$bumpmap" "props/plasticpipe002a_normal"
-	"$basetexture" "Props/plasticpipe002a"
-	"$surfaceprop" "plastic"
-	"%keywords" "borealis"
-}

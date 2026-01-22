@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Nature/dirtfloor001a"
-	"%detailtype" "citygrass01"
-	"$surfaceprop" "dirt"
-}

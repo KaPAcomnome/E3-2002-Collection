@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/stonecolumn003a"
-	"$bumpmap" "Models/props_c17/stonecolumn003a_normal"
-	"$surfaceprop" "concrete"
-}

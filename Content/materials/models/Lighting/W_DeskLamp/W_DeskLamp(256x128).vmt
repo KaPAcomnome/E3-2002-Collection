@@ -1,5 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Lighting/W_DeskLamp/W_DeskLamp(256x128)"
-}

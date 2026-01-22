@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	// Original shader: VertexLitSelfIlluminatedTexture
-	"$basetexture" "models/props_wasteland/W_LightShadeOn"
-	"$model" "1"
-}

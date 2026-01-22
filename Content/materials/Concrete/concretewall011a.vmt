@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	// Didn't exist in the leak
-	"$basetexture" "Concrete/concretewall011a"
-	"$detail" "detail/detailconcrete001a"
-	"$detailscale" 3
-	"$surfaceprop" "concrete"
-	"%keywords" "airexchange,c17industrial"
-}

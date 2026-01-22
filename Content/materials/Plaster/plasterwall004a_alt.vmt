@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	// Didn't exist in the leak; variant made while experimenting
-	"$basetexture" "Plaster/plasterwall004a_alt"
-	"$surfaceprop" "plaster"
-}

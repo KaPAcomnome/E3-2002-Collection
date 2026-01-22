@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTranslucentTexture
-	//"$translucent" 1
-"$alphatest" 1
-	"$basetexture" "models/Crow/Crow01"
-
-}

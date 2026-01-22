@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Nature/rockwall018b"
-	"$surfaceprop" "concrete"
-	"$bumpmap" "Nature/rockwall018b_normal"
-	"$envmap" "env_cubemap"
-	"%keywords" "wasteland"
-}

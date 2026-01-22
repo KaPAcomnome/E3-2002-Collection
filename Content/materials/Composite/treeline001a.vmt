@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "Composite/treeline001a"
-	"$surfaceprop" "wood"
-	"%keywords" "wasteland"
-}

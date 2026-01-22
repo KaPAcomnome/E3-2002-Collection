@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$bumpmap" "props/rubberfloor003a_normal"
-	"$basetexture" "Props/rubberfloor003a"
-	"$surfaceprop" "rubber"
-	"%keywords" "borealis"
-}

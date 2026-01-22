@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitMaskedEnvMappedTexture
-	"$basetexture" "models/Alyx/alyx_faceandhair"
-	"$envmapmask" "models/Alyx/alyx_faceandhair_m"
-	"$envmapsphere" 1
-}

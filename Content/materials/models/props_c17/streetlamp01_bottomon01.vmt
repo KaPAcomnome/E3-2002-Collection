@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/streetlamp01_bottomon01"
-	"$surfaceprop" "metal"
-}

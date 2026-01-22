@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/props_c17/truck001"
-	"$surfaceprop" "metal"
-	"$translucent" 1
-	"$nocull" 1
-}

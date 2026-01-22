@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: DecalBaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "Decals/decalpoweroutlet001a"
-	"$decal" 1
-	"$decalscale" 0.13
-	"%keywords" "c17skyscraper"
-}

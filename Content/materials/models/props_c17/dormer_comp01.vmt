@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "models\props_c17\dormer_comp01"
-
-}

@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	// Sans envmap, for transparency in maps such as parts of city_test
-	"$basetexture" "brick/brickwall012f"
-	"$surfaceprop" "brick"
-}

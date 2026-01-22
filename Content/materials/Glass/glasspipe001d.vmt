@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "shadertest/GooInGlass"
-	"$surfaceprop" "glass"
-	"%keywords" "c17citadel"
-	"$translucent" 1
-}

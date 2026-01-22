@@ -1,5 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Lighting/W_LightShade2/W_LightShadeBottomOff"
-}

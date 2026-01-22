@@ -1,7 +1,0 @@
-"Predator"
-{
-	"$basetexture" "sprites/heatwave"
-	"$refractionAmount" "[0.005 0.005]"
-	"$vertexalpha" "1"
-	"$vertexcolor" "1"
-}

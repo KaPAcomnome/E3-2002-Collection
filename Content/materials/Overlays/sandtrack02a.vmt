@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "overlays/sandtrack02a"
-	"$translucent" 1
-	"$decal" 1
-	"$surfaceprop" "sand"
-	"%keywords" "coastline wasteland"
-}

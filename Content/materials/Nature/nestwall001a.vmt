@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapSelfIllum
-	"$basetexture" "Nature/nestwall001a"
-	"$selfillum" 1
-	"$surfaceprop" "carpet"
-}

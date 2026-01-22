@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/Gunship/GS_paddles"
-	$envmap env_cubemap
-	$envmapmask "models/Gunship/GS_paddles_mask"
-}

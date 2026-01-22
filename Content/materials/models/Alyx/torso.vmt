@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitMaskedEnvMappedTexture
-	"$basetexture" "models/Alyx/torso"
-	"$envmapmask" "models/Alyx/torso_mask"
-
-}

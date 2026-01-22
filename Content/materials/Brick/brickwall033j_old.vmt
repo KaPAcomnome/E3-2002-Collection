@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	// For c17_04_12 to 36
-	"$basetexture" "Brick/brickwall030j_old"
-	"$surfaceprop" "brick"
-	"%keywords" "c17industrial,c17sewers"
-}
