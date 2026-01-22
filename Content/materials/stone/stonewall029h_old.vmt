@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Plaster/plasterwall036h"
+	"$surfaceprop" "plaster"
+	"%keywords" "c17downtown"
+	"$selfillum" 1
+}

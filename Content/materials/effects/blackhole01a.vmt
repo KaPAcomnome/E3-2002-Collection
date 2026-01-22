@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	// Original shader: AddTexture
+	"$basetexture" "effects/blackhole01a"
+	"$multiply" 1
+	"$vertexcolor" 1
+}

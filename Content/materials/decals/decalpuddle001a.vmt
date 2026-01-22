@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	// Original shader: DecalSpecularCubicEnvMap
+	"%tooltexture" "Decals/decalpuddle001a"
+	"$additive" 1
+	"$decal" 1
+	"$envmap" "environment maps/env_borealis02"
+	"$envmapmask" "decals/decalpuddlemask001a"
+	"$decalscale" 0.25
+}

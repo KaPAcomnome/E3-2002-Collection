@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	// Original shader: WorldAdditiveTransEnvMapWithMaskedTexture
+	"$envmapsphere" 1
+	"$basetexture" "Metal/metalwall010c"
+	"$envmap" "environment maps/envmap005a"
+	"$surfaceprop" "metal"
+	"%keywords" "kraken"
+	"$translucent" 1
+}

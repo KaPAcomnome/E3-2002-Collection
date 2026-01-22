@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$normalmapalphaenvmapmask" 1
+	"$basetexture" "glass/glasswindow071a"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "glass/glasswindow071a_normal"
+	"$surfaceprop" "glass"
+	"$envmapmode" "1"
+	"%keywords" "combine"
+}

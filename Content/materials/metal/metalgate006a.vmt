@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$translucent" 1
+	"$basetexture" "Metal/metalgate006a"
+	"%compilepassbullets" 1
+	"$surfaceprop" "metal"
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.21"
+
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	// Didn't exist in the leak; gold texture created by happenstance
+	"$basetexture" "Metal/metalwall092a"
+	"$surfaceprop" "metal"
+}

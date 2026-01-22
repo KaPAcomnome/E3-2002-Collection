@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Nature/snowfloor002a"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "Nature/snowfloor002a_normal"
+	"$envmaptint" "[ 0.75 0.75 0.75 ]"
+	"$surfaceprop" "snow"
+}

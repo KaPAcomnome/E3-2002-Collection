@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Concrete/concretewall026b_old"
+	"$basealphaenvmapmask" 1
+	"$envmap" "environment maps/c17_04_23"
+	"$envmaptint" "[.100 .100 .100]"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown"
+}

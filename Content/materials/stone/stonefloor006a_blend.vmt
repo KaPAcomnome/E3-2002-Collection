@@ -1,0 +1,16 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "Stone/stonefloor006a"
+	"$bumpmap" "stone/stonefloor006d_normal"
+	"$basetexture2" "nature/dirtfloor006a"
+	"$bumpmap2" "dev/dev_normal_trans"
+
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1
+	"$envmaptint" "[.1 .1 .1]"
+	"$normalmapalphaenvmapmask" 1
+
+
+"$blendmodulatetexture" "Stone/stonefloor006a_blendmask"
+}

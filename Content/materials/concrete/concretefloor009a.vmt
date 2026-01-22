@@ -1,0 +1,8 @@
+"WorldTwoTextureBlend"
+{
+	"$basetexture" "Concrete/concretefloor009a"
+	"$detail" "detail/detaildirt001a"
+	"$detailscale" 0.27
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown"
+}

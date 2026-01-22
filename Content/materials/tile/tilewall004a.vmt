@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	// Original shader: SphericalEnvMapBlendMaskedBaseTimesLightmap
+	"$envmapsphere" 1
+	"$basealphaenvmapmask" 1
+	"$basetexture" "Tile/tilewall004a"
+	"$envmap" "environment maps/envmap001a"
+	"$surfaceprop" "tile"
+	"%keywords" "c17downtown,c17sewers"
+}

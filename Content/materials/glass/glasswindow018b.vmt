@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Glass/glasswindow018b"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "glass"
+	"$envmapmask" "glass/glasswindow018b_mask"
+	"$translucent" 1
+}

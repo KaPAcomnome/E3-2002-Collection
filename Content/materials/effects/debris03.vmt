@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "effects/debris03"
+	"$alphatest" 1
+	"$vertexcolor" 1
+}

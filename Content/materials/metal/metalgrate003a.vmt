@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Original shader: DecalBaseTimesLightmapAlphaBlend
+	"$basetexture" "Metal/metalgrate003a"
+	"$surfaceprop" "metal"
+	"%keywords" "c17downtown"
+}

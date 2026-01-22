@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal/metalwall039a"
+	"$surfaceprop" "metal"
+	"%keywords" "c17downtown"
+	"$bumpmap" "metal/metalwall039a_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .8 .8 .6]"
+}

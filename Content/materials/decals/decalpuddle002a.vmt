@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"%tooltexture" "Decals/decalpuddle002a"
+	"$additive" 1
+	"$decal" 1
+	"$envmap" "envmap"
+	"$envmapmask" "decals/decalpuddlemask002a"
+	"$decalscale" 0.25
+}

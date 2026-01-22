@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Props/plasticwall002a"
+	"$surfaceprop" "plastic"
+}

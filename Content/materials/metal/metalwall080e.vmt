@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Didn't exist in the leak; additional color
+	"$basetexture" "metal/metalwall080e"
+	"$surfaceprop" "metal"
+	"%keywords" "combine"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Props/paperposter002a"
+	"$surfaceprop" "paper"
+	"$nocull" "1"
+}

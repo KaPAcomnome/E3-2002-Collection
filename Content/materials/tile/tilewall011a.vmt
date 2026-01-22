@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tile/tilewall011a"
+	"$bumpmap" "tile/tilewall011a_normal"
+	"$surfaceprop" "tile"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"%keywords" "Citadel"
+}

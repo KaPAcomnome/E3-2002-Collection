@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	// Original shader: WorldAdditiveTransCubicEnvMapWithMaskedTexture
+	"$basetexture" "Stone/stonewall026b"
+	"$surfaceprop" "glass"
+	"$envmaptint" "[ 0.25 0.25 0.25 ]"
+	"$envmap" "env_cubemap"
+	"%keywords" "c17downtown"
+	"$envmapmask" "Stone/stonewall026b_mask"
+	"$translucent" 1
+}

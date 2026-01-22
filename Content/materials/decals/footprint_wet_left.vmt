@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	// Original shader: DecalBaseTimesLightmapVertexAlphaBlend
+	"$translucent" 1
+	"$basetexture" "Decals/footprint_wet_left"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$decal" 1
+	"$decalscale" 0.50
+	"$decalfadeduration" 0.50
+	"$decalfadetime" 5.00
+}

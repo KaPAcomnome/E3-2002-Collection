@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Tile/tilewall006a"
+	"$bumpmap" "tile/tilewall006a_normal"
+	"$surfaceprop" "tile"
+	"$envmap" "env_cubemap"
+	"%keywords" "c17downtown,c17sewers"
+}

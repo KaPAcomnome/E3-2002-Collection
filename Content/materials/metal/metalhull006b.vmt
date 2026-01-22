@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Metal/metalhull006b"
+	"$surfaceprop" "metal"
+"$bumpmap" "Metal/metalhull006c_nor"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.045 .045 .045]"
+	"%keywords" "borealis"
+}

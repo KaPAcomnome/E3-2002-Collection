@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal/metalwall076a"
+	"$basealphaenvmapmask" 1
+	"$envmapsphere" 1
+	"$envmap" "Environment Maps/envmapcombine"
+	"$surfaceprop" "metal"
+	"%keywords" "combine"
+	"$envmaptint" "[ .25 .25 .25]"
+}

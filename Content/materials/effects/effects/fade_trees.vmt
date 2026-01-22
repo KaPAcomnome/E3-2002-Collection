@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "Effects/effects/fade_trees"
+	"$nocull" "1"		
+//	"$translucent" "1"
+//	"$model" "1"
+	"$no_fullbright" 1
+	"$translucent" 1
+//	"$multipass" 1
+}
+

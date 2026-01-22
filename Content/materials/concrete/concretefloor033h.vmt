@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete\concretefloor033h"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown"
+	"$bumpmap" "concrete\concretefloor033o_normal"
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1
+	"$envmaptint" "[ .75 .75 .75]"
+//	"$normalmapalphaenvmapmask" 1
+}

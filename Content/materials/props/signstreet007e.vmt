@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$translucent" 1
+//	"$alphatest" 1
+	"$basetexture" "props/signstreet007e"
+	"$surfaceprop" "metal"
+	"%keywords" "c17downtown"
+}

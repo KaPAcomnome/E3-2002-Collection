@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal/metalwall044a"
+	"$bumpmap" "Metal/metalwall044a_normal"
+	"$surfaceprop" "metal"
+	"$envmaptint" "[ 0.5 0.5 0.5 ]"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" .25
+	"%keywords" "c17industrial"
+}

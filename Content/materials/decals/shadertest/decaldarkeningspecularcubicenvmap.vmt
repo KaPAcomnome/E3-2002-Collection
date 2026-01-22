@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	// Original shader: DecalDarkeningSpecularCubicEnvMap
+	"%tooltexture" "Decals/shadertest/DecalDarkeningSpecularCubicEnvMap"
+	"$envmap" "shadertest/cubemap"
+	"$envmapmask" "Decals/shadertest/DecalDarkeningSpecularCubicEnvMap_mask"
+	"$decal" 1
+	"$decalscale" 0.25
+	"$envmaptint" "[ 0.50 0.50 0.50 ]"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Metal/metalvent002a"
+	"$surfaceprop" "metalvent"
+	"%keywords" "c17industrial"
+}

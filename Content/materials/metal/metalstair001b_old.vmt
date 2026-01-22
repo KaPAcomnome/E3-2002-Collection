@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	// For vert_01_014, vert_02_004
+	"$basetexture" "Metal/metalstair001b_old"
+	"$surfaceprop" "metal"
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	// Didn't exist in the leak; gold variant made by chance while experimenting
+	"$basetexture" "Metal/metalwall053e"
+	"$surfaceprop" "metal"
+}

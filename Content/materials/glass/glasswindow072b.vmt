@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$envmapsphere" 1
+	"$basetexture" "glass/glasswindow072b"
+	"$envmap" "environment maps/envmap001a"
+	"$surfaceprop" "glass"
+	"%keywords" "c17skyscraper"
+	"$envmapmask" "glass/glasswindow072b_mask"
+	"$translucent" 1
+}

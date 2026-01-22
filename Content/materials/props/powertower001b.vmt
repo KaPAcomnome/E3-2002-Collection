@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$translucent" 1
+	"$basetexture" "Props/powertower001b"
+	"$surfaceprop" "metal"
+	"%keywords" "combine"
+	"%compilepassbullets" 1
+	"$nocull" 1
+}

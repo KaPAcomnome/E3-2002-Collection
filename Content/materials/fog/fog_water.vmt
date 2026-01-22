@@ -1,0 +1,9 @@
+UnlitGeneric
+{
+	"$basetexture" "fog/fog_water"
+ 	"$nodecal" 1 
+	"$nofullbright" 1
+	"$nocull" "1"
+
+
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "Effects/fog_down"
+	"$translucent" 1
+}

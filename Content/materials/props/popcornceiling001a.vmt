@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "props/popcornceiling001a"
+	"$bumpmap" "props/popcornceiling001a_normal"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17skyscraper"
+}

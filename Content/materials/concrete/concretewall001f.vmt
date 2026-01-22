@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Didn't exist in the leak; based on the 2002-2003 concretewall001e
+	"$basetexture" "Concrete/concretewall001f"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown"
+}

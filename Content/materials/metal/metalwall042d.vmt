@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Metal/metalwall042d"
+	"$surfaceprop" "metal"
+	"%keywords" "combine"
+	"$translucent" 1
+}

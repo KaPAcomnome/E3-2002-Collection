@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Concrete/concretefloor013b"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "concrete/concretefloor013b_normal"
+	"$envmap" "env_cubemap"
+	"%keywords" "wasteland"
+	"$normalmapalphaenvmapmask" 1
+//	"$envmapcontrast" 1
+//	"$envmapsaturation" 1
+	//"$envmaptint" "[ .5 .5 .5]"
+	"$fresnelreflection" .4
+}

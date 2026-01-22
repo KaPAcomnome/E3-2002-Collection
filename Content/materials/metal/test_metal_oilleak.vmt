@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"  "Metal/metalfloor008a"
+	"$surfaceprop"  "metal"
+	"$leakamount"  250
+	"$leakcolor"  "[0.4 0.1 0.1]"
+	"$leaknoise"  0.1;
+	"$leakforce"  150
+}

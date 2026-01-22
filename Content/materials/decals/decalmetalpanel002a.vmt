@@ -1,0 +1,6 @@
+"DecalModulate"
+{
+	"$basetexture" "Decals/decalmetalpanel002a"
+	"$decalscale" 0.10
+	"%keywords" "combine"
+}

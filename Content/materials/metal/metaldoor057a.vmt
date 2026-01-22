@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Metal/metaldoor057a"
+}

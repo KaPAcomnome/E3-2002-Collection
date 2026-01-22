@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	// Didn't exist in the leak; leftover from restoration tests
+	"$basetexture" "Metal/metalwall009a"
+	"$surfaceprop" "metal"
+}

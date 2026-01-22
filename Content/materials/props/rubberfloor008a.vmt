@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Bumpmap added for consistency with other similarly patterned textures
+	"$basetexture" "Props/rubberfloor008a"
+	"$bumpmap" "props/rubberfloor003a_normal"
+	"$surfaceprop" "rubber"
+}

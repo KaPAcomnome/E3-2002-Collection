@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete\concretefloor035a"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "concrete\concretefloor035a_normal"
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1
+	//"$fresnelreflection" .125
+	"$envmaptint" "[ .5 .5 .5]"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Didn't exist in the leak; additional variant
+	"$basetexture" "Glass/glasswindow015d"
+	"$surfaceprop" "glass"
+	"%keywords" "c17industrial,c17skyscraper,wasteland"
+}

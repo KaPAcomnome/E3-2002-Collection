@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	// Original shader: DecalBaseTimesLightmapVertexAlphaBlend
+	"$translucent" 1
+	"$basetexture" "decals/shadertest/DecalBaseTimesLightmapVertexAlphaBlend"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$decal" 1
+	"$decalscale" 1.00
+}

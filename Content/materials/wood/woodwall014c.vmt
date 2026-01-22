@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Wood/woodwall014c"
+	"$surfaceprop" "wood"
+	"%keywords" "c17downtown"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+}

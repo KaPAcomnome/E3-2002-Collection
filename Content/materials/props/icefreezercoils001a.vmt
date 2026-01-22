@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Props/icefreezercoils001a"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "Props/icefreezercoils001a_normal"
+	"$surfaceprop" "metalpanel"
+	"$envmaptint" "[ 0.25 0.25 0.25 ]"
+}

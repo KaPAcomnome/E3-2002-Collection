@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Nature/rockwall011c"
+//	"$bumpmap" "Nature/rockwall011c_normal"
+	"$surfaceprop" "concrete"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Original shader: DecalBaseTimesLightmap
+	"$basetexture" "decals/shadertest/DecalBaseTimesLightmap"
+	"$decal" 1
+	"$decalscale" 1.00
+}

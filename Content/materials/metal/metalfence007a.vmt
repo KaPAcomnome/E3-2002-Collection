@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Metal/metalfence007a"
+	"%compilepassbullets" 1
+	"$surfaceprop" "metal"
+	"%keywords" "c17downtown"
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.5"
+"$nocull" 1
+}

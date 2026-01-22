@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basealphaenvmapmask" 1
+	"$basetexture" "Metal/metalwall071e_old"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "metal"
+	"%keywords" "c17industrial,combine"
+}

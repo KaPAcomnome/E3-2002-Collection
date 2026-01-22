@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$translucent" 1
+	"$basetexture" "Metal/metalarch004a"
+	"$surfaceprop" "metal"
+	"%keywords" "c17trainstation"
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.5"
+}

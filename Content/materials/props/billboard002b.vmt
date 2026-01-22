@@ -1,0 +1,35 @@
+"UnlitTwoTexture"
+{
+	// Original shader: BaseTimesLightmapSelfIllum
+	"$basetexture" "Props/billboard001a"
+	"$selfillum" 1
+	"$surfaceprop" "glass"
+	"$texture2"	"dev/dev_scanline"
+
+	"$mod2x" "1"
+
+
+	"Proxies"
+	{
+
+
+
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 12
+		}
+
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" .05
+			"texturescrollangle" -90
+		}
+
+	}
+}
+
+

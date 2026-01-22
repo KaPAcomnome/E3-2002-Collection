@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	// Original shader: CubicEnvMapBlendMaskedBaseTimesLightmap
+	"$basealphaenvmapmask" 1
+	"$basetexture" "metal/metalpipe007a"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "metal"
+	"$envmapmode" "1"
+	"%keywords" "combine"
+}

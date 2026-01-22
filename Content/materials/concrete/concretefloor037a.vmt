@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete/concretefloor037a"
+//	"$envmap" "env_cubemap"
+	"$envmap" "Environment Maps/rg"
+	"$envmapmask" "concrete/concretefloor037a_mask"
+//	"$basealphaenvmapmask" "1"
+//	"$fresnelreflection" ".40"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown"
+}

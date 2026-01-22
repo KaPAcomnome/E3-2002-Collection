@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmapSelfIllum
+	"$basetexture" "Composite/citadelfloor001a"
+
+// Uncomment this if you add an alpha channel to the base texture
+//	"$selfillum" 1
+
+	"$surfaceprop" "concrete"
+	"%keywords" "c17citadel"
+}

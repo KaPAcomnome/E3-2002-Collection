@@ -1,0 +1,28 @@
+"LightMappedGeneric"
+{
+	"$basetexture" "Effects/com_shield002a"
+	"$envmap" "shadertest/cubemap"
+	"$translucent" "1"
+	"Proxies"
+	{
+		// Tints are sinusoidal
+
+		"PlayerProximity"
+		{
+			"resultVar" "$envmaptint[2]"
+			"scale" 0.002 
+		}
+		
+
+
+		"Sine"
+		{
+			"sineperiod" 1.00
+			"sinemin" .5
+			"sinemax" 1
+			"resultVar"	"$alpha" 
+		}
+
+	}
+
+}

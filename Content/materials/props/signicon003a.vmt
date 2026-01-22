@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Props/signicon003a"
+	"$surfaceprop" "metalpanel"
+}

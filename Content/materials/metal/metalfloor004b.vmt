@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Metal/metalfloor004b"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "metal"
+	"$bumpmap" "Metal/metalfloor004b_normal"
+	"%keywords" "borealis"
+	"$envmaptint" "[.4 .4 .4]"
+}

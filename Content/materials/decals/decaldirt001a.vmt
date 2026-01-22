@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	// Original shader: DecalSpecularCubicEnvMap
+	"%tooltexture" "Decals/decalborealispuddle001a"
+	"$envmap" "environment maps/borealis_003"
+	"$envmapmask" "decals/decalborealispuddlemask001a"
+	"$additive" 1
+	"$decal" 1
+	"$decalscale" 0.25
+	"%keywords" "c17downtown,c17industrial,wasteland"
+}

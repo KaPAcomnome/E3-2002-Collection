@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+                // Original shader: BaseTimesLightmap
+	"$basetexture" "Tile/tilewall007a"
+	"$surfaceprop" "tile"
+	"$bumpmap" "tile/tilewall007abc_normal"
+	"$envmap" "env_cubemap"
+	"%keywords" "combine"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .5 .5 .5]"
+}

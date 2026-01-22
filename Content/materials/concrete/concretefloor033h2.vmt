@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete\concretefloor033h"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown"
+	"$decal" "1"
+	"$translucent" 1
+	"$decalscale" 0.25
+}

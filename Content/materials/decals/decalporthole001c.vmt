@@ -1,0 +1,7 @@
+"DecalBaseTimesLightmapAlphaBlendSelfIllum"
+{
+	"$basetexture" "Decals/decalporthole001c"
+	"$selfillumtexture" "decals/decalporthole001c_mask"
+	"$decalscale" 0.25
+	"%keywords" "borealis"
+}

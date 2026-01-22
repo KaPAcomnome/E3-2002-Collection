@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Brick/brickwall027a"
+	"$surfaceprop" "brick"
+"$bumpmap" "Brick/brickwall027a_nor"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" .5
+	"$envmapsaturation" .4
+	"$envmaptint" "[ .01 .01 .01]"
+	"$envmap" "env_cubemap"
+	"$envmapmode" "1"
+}

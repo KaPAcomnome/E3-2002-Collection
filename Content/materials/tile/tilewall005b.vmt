@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Tile/tilewall005b"
+	"$surfaceprop" "tile"
+	"%keywords" "p9"
+	"$bumpmap" "tile/tilewall005abc_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" .8
+	"$envmaptint" "[ .25 .25 .25]"
+}

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	// Use glasswindow007c_older for demo_arctic
+	"$basetexture" "Glass/glasswindow007a"
+	"$surfaceprop" "glass"
+	"$envmapmask" "glass/glasswindow007a_mask"
+	"$envmap" "env_cubemap"
+}

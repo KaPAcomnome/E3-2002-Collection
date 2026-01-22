@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Wood/woodshingles001a"
+	"$surfaceprop" "wood"
+	"%keywords" "c17downtown,wasteland"
+}

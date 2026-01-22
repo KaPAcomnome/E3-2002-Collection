@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Glass/glasswindowbreak070a"
+	"$envmap" "environment maps/env_borealis02"
+	"$envmapmask" "glass/glasswindowbreak070a_mask"
+	"$envmaptint" "[1 1 1]"
+	"$envmapsphere" 1
+	"$surfaceprop" "glass"
+}

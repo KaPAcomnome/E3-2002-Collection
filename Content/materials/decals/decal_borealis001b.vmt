@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	// Original shader: DecalBaseTimesLightmapAlphaBlend
+	"$translucent" 1
+	"$basetexture" "Decals/decal_borealis001b"
+	"$decal" 1
+	"$decalscale" 0.50
+	"%keywords" "borealis"
+}

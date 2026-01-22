@@ -1,0 +1,7 @@
+"DecalBaseTimesLightmapAlphaBlendSelfIllum"
+{
+	"$basetexture" "Decals/decalelevatorbutton001a"
+	"$selfillumtexture" "decals/decalelevatorbuttonmask001a"
+	"$decalscale" 0.25
+	"%keywords" "c17downtown,c17skyscraper"
+}

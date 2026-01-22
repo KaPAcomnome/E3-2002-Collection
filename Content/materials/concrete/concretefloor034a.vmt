@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete\concretefloor034a"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17downtown"
+	//"$envmap" "env_cubemap"
+	//"$bumpmap" "concrete\concretefloor034a_normal"
+}

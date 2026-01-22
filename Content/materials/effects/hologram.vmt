@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Tools/toolsinvisible"
+	"%compilenodraw" 1
+	"%compilepassbullets" 1
+}
