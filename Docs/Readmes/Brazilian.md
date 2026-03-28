@@ -14,7 +14,6 @@
 
 
 [![Hammer++](https://img.shields.io/badge/Feito%20com-Hammer++-fef087.svg)](https://ficool2.github.io/HammerPlusPlus-Website/)
-[![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&label=Servidor%20no%20Discord&color=fef087)](https://discord.gg/tVNv6SNZZT)
 [![Github](https://img.shields.io/badge/Github-Baixar-fef087%3Flogo%3Dgithub?logo=github&color=fef087)](https://github.com/source-br/E3-2002-Collection/releases)
 [![Oficina](https://img.shields.io/badge/Oficina_Steam-Baixar-fef087?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3369325747)
 
