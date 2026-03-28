@@ -13,7 +13,6 @@
 </div>
 
 [![Hammer++](https://img.shields.io/badge/Made%20with-Hammer++-fef087.svg)](https://ficool2.github.io/HammerPlusPlus-Website/)
-[![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&label=Discord%20server&color=fef087)](https://discord.gg/tVNv6SNZZT)
 [![Github](https://img.shields.io/badge/Github-Download-fef087?logo=github)](https://github.com/source-br/E3-2002-Collection/releases)
 [![Workshop](https://img.shields.io/badge/Steam_Workshop-Download-fef087?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3369325747)
 
